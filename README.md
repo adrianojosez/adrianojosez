@@ -4,8 +4,13 @@
   </header>
 </head>
 
-    👨‍💻 Trabalhando como estágiario em desenvolvimento Front-End
-    💻 Estudando React e React Native
+  :rocket: | &nbsp; Estudante em Análise e desenvolvimento de sistemas na Fatec
+  <br/> 
+  :smile: | &nbsp; Procuro colaborar com projetos front-end usando HTML, CSS, JS, ReactJS e React Native.
+  <br/> 
+  :computer: | &nbsp; Atualmente trabalhando com Front-end
+  <br/> 
+  💬 | &nbsp; Adoro tecnologia e games.
   
  <h3 align="center" width="750" height="20" >GitHub Estatísticas:</h3>
 
