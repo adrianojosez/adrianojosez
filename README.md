@@ -6,8 +6,6 @@
 
   💻 | &nbsp; Estudante em Análise e desenvolvimento de sistemas na Fatec
   <br/> 
-  :smile: | &nbsp; Procuro colaborar com projetos front-end usando HTML, CSS, JS, ReactJS e React Native.
-  <br/> 
   👩🏻‍💻 | &nbsp; Atualmente trabalhando com Front-end
   <br/> 
   💼 | &nbsp; 
