@@ -6,7 +6,7 @@
 
   💻 | &nbsp; Estudante em Análise e desenvolvimento de sistemas na Fatec
   <br/> 
-  👩🏻‍💻 | &nbsp; Atualmente trabalhando com Front-end
+  👩🏻‍💻 | &nbsp; Atualmente trabalhando com desenvolvimento Front-end na @modalgr
   <br/> 
   💼 | &nbsp; 
   
