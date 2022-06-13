@@ -8,7 +8,6 @@
   <br/> 
   👩🏻‍💻 | &nbsp; Atualmente trabalhando com desenvolvimento Front-end na @modalgr
   <br/> 
-  💼 | &nbsp; 
   
  <h3 align="center" width="750" height="20" >GitHub Estatísticas:</h3>
 
