@@ -1,6 +1,6 @@
 <head>
   <header>
-    <h1>Olá, sou Adriano José, desenvolvedor Front-End</h1>  
+    <h1>Olá, sou Adriano José, Full stack developer</h1>  
   </header>
 </head>
 
