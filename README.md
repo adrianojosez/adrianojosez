@@ -9,11 +9,11 @@
   👩🏻‍💻 | &nbsp; Atualmente trabalhando com desenvolvimento Front-end na @modalgr
   <br/> 
   
- <h3 align="center" width="1000" height="20" >GitHub Estatísticas:</h3>
+ <h3 align="center" width="750" height="20" >GitHub Estatísticas:</h3>
 
 <div align="center">
   <a href="https://github.com/adrianojoseajs">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adrianojoseajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api?username=adrianojoseajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
