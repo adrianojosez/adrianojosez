@@ -9,7 +9,7 @@
   👩🏻‍💻 | &nbsp; Atualmente trabalhando com desenvolvimento Front-end na @modalgr
   <br/> 
   
- <h3 align="center" width="750" height="20" >GitHub Estatísticas:</h3>
+ <h3 align="center" width="1000" height="20" >GitHub Estatísticas:</h3>
 
 <div align="center">
   <a href="https://github.com/adrianojoseajs">
