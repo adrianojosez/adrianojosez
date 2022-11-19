@@ -55,8 +55,8 @@
   <p align="center">:round_pushpin: Profile visitors</p>
    
    <div align="center">
-                      <a href="https://github.com/isyuricunha">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/isyuricunha/count.svg">
+    <a href="https://github.com/adrianojoseajs">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/adrianojoseajs/count.svg">
    </div>
 </details>
   
