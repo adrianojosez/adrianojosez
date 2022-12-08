@@ -18,7 +18,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://ibb.co/mc7sB8N"/>](https://www.modalgr.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
 **Desenvolvedor Front end** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
