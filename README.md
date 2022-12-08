@@ -6,14 +6,35 @@
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
-## ⭐ Informações sobre minha conta GitHub:
+## 📈 Informações sobre minha conta GitHub:
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=adrianojoseajs&theme=dark)](https://github.com/adrianojoseajs)
+<a href="https://github.com/adrianojoseajs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=\adrianojoseajs&theme=dark&hide_langs_below=1" />
+</a>
+  
+[![adrianojoseajs](https://github-readme-stats.vercel.app/api?username=adrianojoseajs&theme=dark)](https://github.com/adrianojoseajs)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojoseajs&hide=html&layout=compact&theme=dark)](https://github.com/adrianojoseajs)
+[![adrianojoseajs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojoseajs&hide=html&layout=compact&theme=dark)](https://github.com/adrianojoseajs)
+  
+<!-- __________________________________________________________________________________________________________________________________________________ -->
+
+## 🎯 Competências:
+
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Wyl-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wyl-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wyl-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Wyl-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Wyl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wyl-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Wyl-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wyl-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <br>
+</div>
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
- 
+
 ## 💼 Experiência profissional:
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -29,6 +50,7 @@ Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
+
 <div style="display: inline" align="center"> 
   
 <!--   E-mail -->
@@ -63,6 +85,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
    
 </div>  
   
-<!-- __________________________________________________________________________________________________________________________________________________ -->
-<!-- __________________________________________________________________________________________________________________________________________________ -->
 <!-- __________________________________________________________________________________________________________________________________________________ -->
