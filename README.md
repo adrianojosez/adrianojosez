@@ -1,21 +1,20 @@
 ## 👨🏻‍💻 Olá, sou Adriano José, Full stack developer
 
   💻 | &nbsp; Estudante em Análise e desenvolvimento de sistemas na Fatec
-  <br/> 
+  
   👩🏻‍💻 | &nbsp; Atualmente trabalhando com desenvolvimento Front end na <a href="https://modalgr.com.br">ModalGR</a>
-  <br/> 
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Informações sobre minha conta GitHub:
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/adrianojoseajs)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=adrianojoseajs&theme=dark)](https://github.com/adrianojoseajs)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/adrianojoseajs)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojoseajs&hide=html&layout=compact&theme=dark)](https://github.com/adrianojoseajs)
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
  
-## 💼 Experiência profissional
+## 💼 Experiência profissional:
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
