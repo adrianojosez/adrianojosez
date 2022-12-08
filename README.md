@@ -1,8 +1,8 @@
 ## 👨🏻‍💻 Olá, sou Adriano José, Full stack developer
 
-  💻 | &nbsp; Estudante em Análise e desenvolvimento de sistemas na Fatec
+  💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na Fatec
   
-  👩🏻‍💻 | &nbsp; Atualmente trabalhando com desenvolvimento Front end na <a href="https://modalgr.com.br">ModalGR</a>
+  👩🏻‍💻 &nbsp; Atualmente trabalhando com desenvolvimento Front end na <a href="https://modalgr.com.br">ModalGR</a>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
