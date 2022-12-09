@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Olá, sou Adriano José, Full stack developer
 
-  💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na Fatec
+  💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na <a href="https://fatecrl.edu.br">Fatec</a>
   
   👩🏻‍💻 &nbsp; Atualmente trabalhando com desenvolvimento Front end na <a href="https://modalgr.com.br">ModalGR</a>
   
@@ -16,18 +16,22 @@
 
 ## 🎯 Competências:
 
+  <br>
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Wyl-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wyl-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wyl-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Wyl-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Wyl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wyl-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Wyl-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wyl-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  
   <br>
 </div>
+  <br>
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
@@ -35,7 +39,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+[<img align="left" height="94px" width="94px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
 **Desenvolvedor Front end** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
@@ -47,35 +51,31 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
+<br>
+<br>
 <div style="display: inline" align="center"> 
   
 <!--   E-mail -->
-  
   <a href = "mailto:adrianojosedasilvaajs">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 <!-- LinkedIn -->
-
   <a href="https://www.linkedin.com/in/adrianojosedasilvaajs" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <!-- Youtube -->
-
   <a href="https://www.youtube.com/channel/UCvwqrxvKnj1tG2SbWOqvEPA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
 <!-- Twitter -->
-
   <a href="https://twitter.com/adrianojoseajs" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   
 <!-- Instagram  -->
-
   <a href="https://www.instagram.com/adrianojoseajs/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 <!-- Discord -->
-
   <a href="https://discord.com/channels/942266705718181919/942266706280206369" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    
