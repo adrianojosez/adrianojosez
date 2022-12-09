@@ -9,14 +9,10 @@
 ## 📈 Informações sobre minha conta GitHub:
 
 <div align="center">
-  
-<br>
-  
+
 <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojoseajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
 
-<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojoseajs&layout=compact&langs_count=8&theme=dark" >
-
-<br>  
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojoseajs&layout=compact&langs_count=8&theme=dark" > 
 
 </div>  
 
