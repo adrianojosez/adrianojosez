@@ -37,12 +37,13 @@
 
 ## 💼 Experiência profissional:
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão geral abaixo, você encontrará minhas experiências de trabalho mais recentes:
 
-[<img align="left" height="94px" width="94px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+[<img align="left" height="124px" width="124px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
 **Desenvolvedor Front end** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
+Março 2022 - Momento \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`\
 Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 <br/>
