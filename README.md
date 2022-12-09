@@ -53,8 +53,8 @@ Na visão geral abaixo, você encontrará minhas experiências de trabalho mais 
 Março 2022 - Momento \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`\
 Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
-<br/>
-
+<br>
+<br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
