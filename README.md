@@ -8,6 +8,10 @@
 
 ## 📈 Informações sobre minha conta GitHub:
 
+<br>
+
+Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
+
 <div align="center">
 
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojoseajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
@@ -21,7 +25,10 @@
 
 ## 🎯 Skills:
 
-  <br>
+<br>
+
+Na visão geral abaixo, estão as linguagens e tecnologias na qual tenho domínio:
+
 <div style="display: inline_block">
   <br>
   
