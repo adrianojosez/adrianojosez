@@ -7,10 +7,19 @@
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 ## 📈 Informações sobre minha conta GitHub:
-  
-[![adrianojoseajs](https://github-readme-stats.vercel.app/api?username=adrianojoseajs&theme=dark)](https://github.com/adrianojoseajs)
 
-[![adrianojoseajs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojoseajs&hide=html&layout=compact&theme=dark)](https://github.com/adrianojoseajs)
+<div align="center">
+  
+<br>
+  
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojoseajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
+
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojoseajs&layout=compact&langs_count=8&theme=dark" >
+
+<br>  
+
+</div>  
+
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
