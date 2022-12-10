@@ -84,8 +84,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
-<br>
-
 ## 📞 Contato:
 
 <div style="display: inline" align="center"> 
@@ -95,7 +93,25 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-<!-- LinkedIn -->
+<!-- Whatsapp -->
+  <a href="https://api.whatsapp.com/send?phone=5513981242306&text=Ol%C3%A1%2C%20sou%20Adriano!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  
+<!-- Outlook -->
+  <a href="https://outlook.live.com/mail/0/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>    
+   
+</div>  
+  
+<!-- __________________________________________________________________________________________________________________________________________________ -->
+
+## 👤 Social:
+
+<div style="display: inline" align="center"> 
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adrianojosedasilvaajs" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
@@ -119,7 +135,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
   <a href="https://discord.com/channels/942266705718181919/942266706280206369" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-   
-</div>  
   
-<!-- __________________________________________________________________________________________________________________________________________________ -->
+<div>
+
+
