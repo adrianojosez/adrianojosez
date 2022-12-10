@@ -53,7 +53,7 @@ Na visão geral abaixo, estão as linguagens e tecnologias na qual tenho domíni
 
 Na visão geral abaixo, você encontrará minhas experiências de trabalho mais recentes:
 
-[<img align="left" height="124px" width="124px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
 **Desenvolvedor Front end** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
