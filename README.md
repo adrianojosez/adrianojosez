@@ -1,5 +1,7 @@
-## 👨🏻‍💻 Olá, sou Adriano José, Full stack developer
-
+<h1 align="center">
+👨🏻‍💻 Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a>, Full stack developer
+</h1>
+  
   💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na <a href="https://fatecrl.edu.br">Fatec</a>
   
   👩🏻‍💻 &nbsp; Atualmente trabalhando com desenvolvimento Front end na <a href="https://modalgr.com.br">ModalGR</a>
@@ -14,9 +16,9 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojoseajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojoseajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojoseajs&layout=compact&langs_count=8&theme=dark" > 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojoseajs&layout=compact&langs_count=8&theme=dark" > 
 
 </div>  
 
