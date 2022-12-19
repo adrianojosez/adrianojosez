@@ -29,25 +29,35 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
 <br>
 
-Na visão geral abaixo, estão as linguagens e tecnologias na qual tenho domínio:
+<h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual tenho domínio:</h4>
+
+<br>
+
+Linguagens e tecnologias:
 
 <div style="display: inline_block">
   <br>
-  
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <br> 
+</div>
+
+  <br>
   
+Ferramentas:
+
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <br>
 </div>
-  <br>
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
@@ -55,17 +65,20 @@ Na visão geral abaixo, estão as linguagens e tecnologias na qual tenho domíni
 
 <br>
 
-Na visão geral abaixo, estão as linguagens e tecnologias na qual estou estudando no momento:
+<h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual estou estudando no momento:</h4>
+
+<br>
+
+Linguagens e tecnologias:
 
 <div style="display: inline_block">
   <br>
-  
   <img align="center" alt="Dart" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  
   <br>
 </div>
-  <br>
+
+<br>
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
