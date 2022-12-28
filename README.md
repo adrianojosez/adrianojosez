@@ -30,14 +30,11 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
 <h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual tenho domínio:</h4>
 
-<br>
+<h4>Linguagens e tecnologias:</h4>
 
-<h6>Linguagens e tecnologias:</h6>
-
-<h6>Front-end:</h6>
+<h5>Front-end:</h5>
 
 <div style="display: inline_block">
-  <br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
@@ -48,22 +45,16 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
   <br> 
 </div>
 
-  <br>
-
-<h6>Back-end:</h6>
+<h5>Back-end:</h5>
 
 <div style="display: inline_block">
-  <br>
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <br> 
 </div>
 
-  <br>
-  
-<h6>Ferramentas:</h6>
+<h5>Ferramentas:</h5>
 
 <div style="display: inline_block">
-  <br>
   <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <br>
