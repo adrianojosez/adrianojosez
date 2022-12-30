@@ -159,13 +159,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
 <!-- __________________________________________________________________________________________________________________________________________________ -->
   
   <br>
-  <br>
-  <br>
   
   <h3 align="center"> Sinta-se à vontade para visualizar os repositórios! </h3>
   <h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
-  
-  
-  
-
-
