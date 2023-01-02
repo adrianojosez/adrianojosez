@@ -52,13 +52,15 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
   <br> 
 </div>
 
-<h5>Ferramentas:</h5>
+<h4>Ferramentas:</h4>
 
 <div style="display: inline_block">
   <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <br>
 </div>
+
+<br>
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
@@ -67,8 +69,6 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 <br>
 
 <h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual estou estudando no momento:</h4>
-
-<br>
 
 <h4>Linguagens e tecnologias:</h4>
 
@@ -138,32 +138,26 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
 ## 👤 Social:
 
 <div style="display: inline" align="center"> 
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adrianojosedasilvaajs" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  
 <!-- Youtube -->
   <a href="https://www.youtube.com/channel/UCvwqrxvKnj1tG2SbWOqvEPA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
-  
 <!-- Twitter -->
   <a href="https://twitter.com/adrianojoseajs" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">
   </a>
-  
 <!-- Instagram -->
   <a href="https://www.instagram.com/adrianojoseajs/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  
 <!-- Discord -->
   <a href="https://discord.com/channels/942266705718181919/942266706280206369" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  
 <div>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
