@@ -70,7 +70,9 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
 <br>
 
-Linguagens e tecnologias:
+<h4>Linguagens e tecnologias:</h4>
+
+<h5>Mobile:</h5>
 
 <div style="display: inline_block">
   <br>
@@ -78,6 +80,14 @@ Linguagens e tecnologias:
   <img align="center" alt="Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <br>
 </div>
+
+<h5>Back-end:</h5>
+
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <br>
+<div>
 
 <br>
 
