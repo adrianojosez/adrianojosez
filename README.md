@@ -52,6 +52,13 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
   <br> 
 </div>
 
+<h5>Mobile:</h5>
+
+<div style="display: inline_block">
+  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <br> 
+</div>
+
 <h4>Ferramentas:</h4>
 
 <div style="display: inline_block">
@@ -76,7 +83,6 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 <h5>Mobile:</h5>
 
 <div style="display: inline_block">
-  <br>
   <img align="center" alt="Dart" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <br>
@@ -85,7 +91,6 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 <h5>Back-end:</h5>
 
 <div style="display: inline_block">
-  <br>
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <br>
 <div>
