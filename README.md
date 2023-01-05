@@ -10,8 +10,6 @@
 
 ## 📈 Informações sobre minha conta GitHub:
 
-<br>
-
 Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
 <div align="center">
@@ -25,8 +23,6 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 ## 🎯 Skills:
-
-<br>
 
 <h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual tenho domínio:</h4>
 
@@ -75,8 +71,6 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
 ## 📚 Estudando:
 
-<br>
-
 <h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual estou estudando no momento:</h4>
 
 <h4>Linguagens e tecnologias:</h4>
@@ -96,13 +90,18 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
   <br>
 <div>
 
+<h5>Banco de dados:</h5>
+
+<div style="display: inline_block">
+  <img align="center" alt="Mongodb" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <br>
+<div>  
+
 <br>
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 ## 💼 Experiência profissional:
-
-<br>
 
 Na visão geral abaixo, você encontrará minhas experiências de trabalho mais recentes:
 
