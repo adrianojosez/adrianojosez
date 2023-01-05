@@ -8,7 +8,7 @@
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
-## 📈 Informações sobre minha conta GitHub:
+## 📈 Informações sobre meu GitHub:
 
 Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
