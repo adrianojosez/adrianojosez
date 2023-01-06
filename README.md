@@ -115,6 +115,7 @@ Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 <br>
 <br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+<br>
  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
@@ -137,7 +138,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>    
    
-</div>  
+</div>
+
+<br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
@@ -165,10 +168,12 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
 <div>
+
+<br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
   
-  <br>
+<br>
   
-  <h3 align="center"> Sinta-se à vontade para visualizar os repositórios! </h3>
-  <h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
+<h3 align="center"> Sinta-se à vontade para visualizar os repositórios! </h3>
+<h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
