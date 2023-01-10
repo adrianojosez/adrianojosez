@@ -102,6 +102,25 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 ## 💻 Projetos:  
+  
+  <div align="center">
+    
+  <a href="https://github.com/adrianojoseajs/nome-do-repositorio">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojoseajs&repo=adrianojoseajs&theme=react&bg_color=0D1117" alt="texto-alt">
+  </a>
+    
+<!-- <p align="center"><a href="https://github.com/adrianojoseajs?tab=repositories">
+  <img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
+</p>  -->
+    
+  </div>
+
+## 💻 Lista de projetos futuros:
+
+<p align="center">
+  
+</p>
 
 <br>
 
