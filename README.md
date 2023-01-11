@@ -10,7 +10,7 @@
 
 ## 📈 Informações sobre meu GitHub:
 
-Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
+<h4>Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:</h4>
 
 <div align="center">
 
@@ -101,7 +101,9 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
-## 💻 Projetos:  
+## 💻 Projetos:
+  
+<h4>Na visão geral abaixo, estão os projetos que estou trabalhando no momento:</h4>
   
   <div align="center">
     
@@ -116,7 +118,11 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
     
   </div>
 
+<!-- __________________________________________________________________________________________________________________________________________________ -->
+  
 ## 💻 Lista de projetos futuros:
+  
+<h4>Na visão geral abaixo, estão os projetos que pretendo desenvolver no futuro:</h4>
 
 <p align="center">
   
@@ -128,7 +134,7 @@ Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
 
 ## 💼 Experiência profissional:
 
-Na visão geral abaixo, você encontrará minhas experiências de trabalho mais recentes:
+<h4>Na visão geral abaixo, você encontrará minhas experiências de trabalho mais recentes:</h4>
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
