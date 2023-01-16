@@ -225,12 +225,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
 <div>
-
 <br>
-  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
-  
 <br>
-  
 <h3 align="center"> Sinta-se à vontade para visualizar os repositórios! </h3>
 <h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
