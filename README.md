@@ -75,10 +75,11 @@
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
+  [![Vscode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/vscode)
   [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/figma)
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
+  [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
   [![Azure](https://skills.thijs.gg/icons?i=azure)](https://pt.wikipedia.org/wiki/azure)
-  [![Vscode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/vscode)
   [![Netlify](https://skills.thijs.gg/icons?i=netlify)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
