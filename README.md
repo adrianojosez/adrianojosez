@@ -79,7 +79,6 @@
   [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/figma)
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
-  [![Azure](https://skills.thijs.gg/icons?i=azure)](https://pt.wikipedia.org/wiki/azure)
   [![Netlify](https://skills.thijs.gg/icons?i=netlify)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
@@ -94,6 +93,23 @@
 
 <h4>Linguagens e tecnologias:</h4>
 
+<h5>Front-end:</h5>
+
+<div style="display: inline_block">
+  
+  [![Angular](https://skills.thijs.gg/icons?i=angular)](https://pt.wikipedia.org/wiki/angular)
+  <br>
+<div>
+
+<h5>Back-end:</h5>
+
+<div style="display: inline_block">
+  
+<!--   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
+  [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
+  <br>
+<div>
+  
 <h5>Mobile:</h5>
 
 <div style="display: inline_block">
@@ -105,15 +121,6 @@
   <br>
 </div>
 
-<h5>Back-end:</h5>
-
-<div style="display: inline_block">
-  
-<!--   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
-  [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
-  <br>
-<div>
-
 <h5>Banco de dados:</h5>
 
 <div style="display: inline_block">
@@ -121,7 +128,15 @@
 <!--   <img align="center" alt="Mongodb" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
   [![Mongodb](https://skills.thijs.gg/icons?i=mongodb)](https://pt.wikipedia.org/wiki/mongodb)
   <br>
-<div>  
+<div>
+  
+<h4>Ferramentas:</h4>
+
+<div style="display: inline_block">
+  
+  [![Azure](https://skills.thijs.gg/icons?i=azure)](https://pt.wikipedia.org/wiki/azure)
+  <br>
+</div>
 
 <br>
   
