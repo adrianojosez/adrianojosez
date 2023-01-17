@@ -45,7 +45,6 @@
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
 [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
-[![Angular](https://skills.thijs.gg/icons?i=angular)](https://pt.wikipedia.org/wiki/Angular)
   <br> 
 </div>
 
