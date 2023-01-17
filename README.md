@@ -134,6 +134,7 @@
 <div style="display: inline_block">
   
   [![Azure](https://skills.thijs.gg/icons?i=azure)](https://pt.wikipedia.org/wiki/azure)
+  [![Heroku](https://skills.thijs.gg/icons?i=heroku)](https://pt.wikipedia.org/wiki/heroku)
   <br>
 </div>
 
