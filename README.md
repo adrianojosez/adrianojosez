@@ -139,6 +139,12 @@
   [![Heroku](https://skills.thijs.gg/icons?i=heroku)](https://pt.wikipedia.org/wiki/heroku)
   <br>
 </div>
+  
+<br>
+  
+<h4>Pretendo estudar no futuro:</h4>
+  
+  [![Vue](https://skills.thijs.gg/icons?i=vuejs)](https://pt.wikipedia.org/wiki/vuejs)
 
 <br>
   
