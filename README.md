@@ -188,6 +188,7 @@
   <li> Buscador de CEP </li>
   <li> Dashboard </li>
   <li> Conversor de moedas </li>
+  <li> Quiz App </li>
 </ul>
 
 <br>
