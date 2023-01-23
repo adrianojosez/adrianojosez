@@ -173,9 +173,18 @@
   
 <h4>Na visão geral abaixo, estão os projetos que pretendo desenvolver no futuro:</h4>
 
-<p align="center">
-  
-</p>
+<ul>
+  <li> Chat </li>
+  <li> Chess Game </li>
+  <li> Music Player </li>
+  <li> Ecommerce Website </li>
+  <li> Landing page </li>
+  <li> Drawing App </li>
+  <li> Bot Whatsapp </li>
+  <li> Parking control App </li>
+  <li> Weather app </li>
+  <li> Flappy bird </li>
+</ul>
 
 <br>
 
