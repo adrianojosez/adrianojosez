@@ -184,6 +184,10 @@
   <li> Parking control App </li>
   <li> Weather app </li>
   <li> Flappy bird </li>
+  <li> Infinite Scroll React </li>
+  <li> Buscador de CEP </li>
+  <li> Dashboard </li>
+  <li> Conversor de moedas </li>
 </ul>
 
 <br>
