@@ -24,6 +24,15 @@
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
+<!-- ## 📚 Educação:
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+</div></br> -->
+
+<!-- __________________________________________________________________________________________________________________________________________________ -->
+
 ## 🎯 Skills:
 
 <h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual tenho domínio:</h4>
