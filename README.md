@@ -158,6 +158,7 @@
   [![Nestjs](https://skills.thijs.gg/icons?i=nestjs)](https://pt.wikipedia.org/wiki/nestjs)
   [![Nextjs](https://skills.thijs.gg/icons?i=nextjs)](https://pt.wikipedia.org/wiki/nextjs)
   [![Electronjs](https://skills.thijs.gg/icons?i=electron)](https://pt.wikipedia.org/wiki/electron)
+  [![Expressjs](https://skills.thijs.gg/icons?i=express)](https://pt.wikipedia.org/wiki/express)
   [![Wordpress](https://skills.thijs.gg/icons?i=wordpress)](https://pt.wikipedia.org/wiki/wordpress)
   [![aws](https://skills.thijs.gg/icons?i=aws)](https://pt.wikipedia.org/wiki/aws)
   [![Firebase](https://skills.thijs.gg/icons?i=firebase)](https://pt.wikipedia.org/wiki/firebase)
