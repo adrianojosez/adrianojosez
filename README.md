@@ -162,6 +162,8 @@
   [![Wordpress](https://skills.thijs.gg/icons?i=wordpress)](https://pt.wikipedia.org/wiki/wordpress)
   [![aws](https://skills.thijs.gg/icons?i=aws)](https://pt.wikipedia.org/wiki/aws)
   [![Firebase](https://skills.thijs.gg/icons?i=firebase)](https://pt.wikipedia.org/wiki/firebase)
+  [![Lua](https://skills.thijs.gg/icons?i=lua)](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o))
+  [![Python](https://skills.thijs.gg/icons?i=python)](https://pt.wikipedia.org/wiki/Python)
 
 <br>
   
@@ -177,7 +179,7 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojoseajs&repo=adrianojoseajs&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
     
-<!-- <p align="center"><a href="https://github.com/adrianojoseajs?tab=repositories">
+<!-- <p align="center"><a href="https://github.com/adrianojosez?tab=repositories">
   <img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
   </a>
 </p>  -->
