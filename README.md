@@ -175,8 +175,8 @@
   
   <div align="center">
     
-  <a href="https://github.com/adrianojoseajs/nome-do-repositorio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojoseajs&repo=adrianojoseajs&theme=react&bg_color=0D1117" alt="texto-alt">
+  <a href="https://github.com/adrianojosez/nome-do-repositorio">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=adrianojosez&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
     
 <!-- <p align="center"><a href="https://github.com/adrianojosez?tab=repositories">
