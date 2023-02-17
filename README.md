@@ -117,6 +117,7 @@
   
 <!--   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
   [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
+  [![Spring](https://skills.thijs.gg/icons?i=spring)](https://pt.wikipedia.org/wiki/spring)
   <br>
 <div>
   
