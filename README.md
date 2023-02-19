@@ -212,7 +212,43 @@
 </ul>
 
 <br>
+  
+<!-- __________________________________________________________________________________________________________________________________________________ -->
 
+## 🎓 Formação acadêmica:
+
+<h4>Na visão geral abaixo, você encontrará minhas formações acadêmicas mais recentes:</h4>
+  
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://i.ibb.co/FYR5CVX/fatecrl.png"/>](https://fatecrl.edu.br/)
+
+**Análise e desenvolvimento de sistemas** \
+[**Fatec Baixada Santista - Rubens Lara**](https://fatecrl.edu.br/) • Aluno \
+Fevereiro 2022 - Dezembro 2024 \
+Linguagens & Tecnologias: `C`, \
+Projetos em destaque: []()
+<br>
+  
+[<img align="left" height="120px" width="120px" alt="logoetecdraruthcardoso" src="https://i.ibb.co/x214WJD/etec.jpg"/>](https://etecdrc.com.br/)
+
+**Desenvolvimento de sistemas** \
+[**Etec Drª. Ruth Cardoso**](https://etecdrc.com.br/) • Aluno \
+Agosto 2020 - Dezembro 2021 \
+Linguagens & Tecnologias: `C#`, \
+Projetos em destaque: []()
+<br>
+  
+[<img align="left" height="120px" width="120px" alt="logoalura" src="https://i.ibb.co/M5FxTs2/alura.jpg"/>](https://www.alura.com.br/)
+
+**Programação** \
+[**Alura**](https://www.alura.com.br/) • Aluno \
+Março 2022 - Março 2024 \
+Linguagens & Tecnologias: `JS`, \
+Projetos em destaque: []()
+<br>
+<br>
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) para uma descrição mais detalhada da minha formação acadêmica.
+<br>
+  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 ## 💼 Experiência profissional:
@@ -228,7 +264,7 @@ Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `A
 Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 <br>
 <br>
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojoseajs/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) para uma descrição mais detalhada da minha experiência de trabalho.
 <br>
  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
