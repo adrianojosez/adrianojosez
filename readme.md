@@ -227,6 +227,7 @@ Fevereiro 2022 - Dezembro 2024 \
 Linguagens & Tecnologias: `C`, \
 Projetos em destaque: []()
 <br>
+<br>
   
 [<img align="left" height="120px" width="120px" alt="logoetecdraruthcardoso" src="https://i.ibb.co/x214WJD/etec.jpg"/>](https://etecdrc.com.br/)
 
@@ -236,6 +237,7 @@ Agosto 2020 - Dezembro 2021 \
 Linguagens & Tecnologias: `C#`, \
 Projetos em destaque: []()
 <br>
+<br>
   
 [<img align="left" height="120px" width="120px" alt="logoalura" src="https://i.ibb.co/M5FxTs2/alura.jpg"/>](https://www.alura.com.br/)
 
@@ -244,6 +246,7 @@ Projetos em destaque: []()
 Março 2022 - Março 2024 \
 Linguagens & Tecnologias: `JS`, \
 Projetos em destaque: []()
+<br>
 <br>
 <br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) para uma descrição mais detalhada da minha formação acadêmica.
@@ -262,6 +265,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 Março 2022 - Momento \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`\
 Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
+<br>
 <br>
 <br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) para uma descrição mais detalhada da minha experiência de trabalho.
@@ -297,29 +301,103 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 ## 👤 Social:
 
 <div style="display: inline" align="center"> 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/adrianojosedasilvaajs" target="_blank">
+ 
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/adrianojosez" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-<!-- Youtube -->
-  <a href="https://www.youtube.com/channel/UCvwqrxvKnj1tG2SbWOqvEPA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
 <!-- Twitter -->
-  <a href="https://twitter.com/adrianojoseajs" target="_blank">
+  <a href="https://twitter.com/adrianojosez" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">
   </a>
 <!-- Instagram -->
-  <a href="https://www.instagram.com/adrianojoseajs/" target="_blank">
+  <a href="https://www.instagram.com/adrianojosez/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 <!-- Discord -->
   <a href="https://discord.com/channels/942266705718181919/942266706280206369" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>  
+<!-- Reddit -->
+  <a href="https://www.reddit.com/user/adrianojose" target="_blank">
+   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
+  </a>
+<!-- GitLab -->
+  <a href="https://gitlab.com/adrianojose" target="_blank">
+   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
+  </a>
+<!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/14721890/adrianojose" target="_blank">
+   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
+  </a>
+<!-- Slack -->
+  <a href="https://app.slack.com/client/T04Q2NRAQ5C/D04Q2Q62GVC/rimeto_profile/U04Q9AXKUF4" target="_blank">
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
+  </a>
+<!-- Bitbucket -->
+  <a href="https://bitbucket.org/adrianojosez" target="_blank">
+   <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
+  </a>
+<!-- Medium -->
+  <a href="https://medium.com/@adrianojosez" target="_blank">
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+  </a>
+<!-- Dev.to -->
+  <a href="https://dev.to/adrianojose" target="_blank">
+   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
+  </a>
+<!-- Hashnode -->
+  <a href="https://adrianojose.hashnode.dev/" target="_blank">
+   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank">
+  </a>
+  
+<div>
+
+<!-- __________________________________________________________________________________________________________________________________________________ -->
+
+## 🎮 Games:
+
+<div style="display: inline" align="center"> 
+  
+  <!-- Playstation -->
+  <a href="" target="_blank">
+   <img src="" target="_blank">
+  </a>
+  <!-- Xbox -->
+  <a href="" target="_blank">
+   <img src="" target="_blank">
+  </a>
+  <!-- Steam -->
+  <a href="" target="_blank">
+   <img src="" target="_blank">
+  </a>
+  <!-- Itch.io -->
+  <a href="" target="_blank">
+   <img src="" target="_blank">
+  </a>
+  
+<br>
+  
+<!-- __________________________________________________________________________________________________________________________________________________ -->
+
+## 📺 Streaming:
+
+<div style="display: inline" align="center"> 
+  
+<!-- Youtube -->
+  <a href="https://www.youtube.com/channel/UCvwqrxvKnj1tG2SbWOqvEPA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+<!-- Twitch -->
+  <a href="https://www.twitch.tv/adrianojosez" target="_blank">
+   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
 <div>
+
 <br>
+  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
+
 <br>
 <h3 align="center"> Sinta-se à vontade para visualizar os repositórios! </h3>
 <h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
