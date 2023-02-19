@@ -276,7 +276,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 ## 📞 Contato:
 
 <div style="display: inline" align="center"> 
-  
 <!-- E-mail -->
   <a href="mailto:adrianojosedasilvaajs">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -289,7 +288,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://outlook.live.com/mail/0/" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>    
-   
 </div>
 <br>
 
@@ -298,7 +296,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 ## 👤 Social:
 
 <div style="display: inline" align="center"> 
- 
 <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adrianojosez" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -323,6 +320,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://gitlab.com/adrianojose" target="_blank">
    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
   </a>
+</div>
+<div style="display: inline" align="center"> 
 <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/14721890/adrianojose" target="_blank">
    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
@@ -347,8 +346,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://adrianojose.hashnode.dev/" target="_blank">
    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank">
   </a>
-
-<div>
+</div>
 <br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
@@ -356,7 +354,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 ## 🎮 Games:
 
 <div style="display: inline" align="center"> 
-  
 <!-- Playstation -->
   <a href="" target="_blank">
    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
@@ -373,8 +370,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://adrianojose.itch.io/" target="_blank">
    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank">
   </a>
-
-</div>  
+</div>
 <br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
@@ -382,7 +378,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 ## 📺 Streaming:
 
 <div style="display: inline" align="center"> 
-  
 <!-- Youtube -->
   <a href="https://www.youtube.com/channel/UCvwqrxvKnj1tG2SbWOqvEPA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
@@ -391,7 +386,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://www.twitch.tv/adrianojosez" target="_blank">
    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
-
 </div>
 <br>
 
