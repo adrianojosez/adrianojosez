@@ -281,21 +281,18 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="mailto:adrianojosedasilvaajs">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  
 <!-- Whatsapp -->
   <a href="https://api.whatsapp.com/send?phone=5513981242306&text=Ol%C3%A1%2C%20sou%20Adriano!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-  
 <!-- Outlook -->
   <a href="https://outlook.live.com/mail/0/" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>    
    
 </div>
-
 <br>
-  
+
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 ## 👤 Social:
@@ -350,32 +347,34 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://adrianojose.hashnode.dev/" target="_blank">
    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank">
   </a>
-  
-<div>
 
+<div>
+<br>
+  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 ## 🎮 Games:
 
 <div style="display: inline" align="center"> 
   
-  <!-- Playstation -->
+<!-- Playstation -->
   <a href="" target="_blank">
-   <img src="" target="_blank">
+   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
   </a>
-  <!-- Xbox -->
-  <a href="" target="_blank">
-   <img src="" target="_blank">
+<!-- Xbox -->
+  <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" target="_blank">
+   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank">
   </a>
-  <!-- Steam -->
-  <a href="" target="_blank">
-   <img src="" target="_blank">
+<!-- Steam -->
+  <a href="https://steamcommunity.com/id/Flloydinn/" target="_blank">
+   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   </a>
-  <!-- Itch.io -->
-  <a href="" target="_blank">
-   <img src="" target="_blank">
+<!-- Itch.io -->
+  <a href="https://adrianojose.itch.io/" target="_blank">
+   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank">
   </a>
-  
+
+</div>  
 <br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
@@ -392,12 +391,13 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://www.twitch.tv/adrianojosez" target="_blank">
    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
-<div>
 
+</div>
 <br>
-  
+
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
 <br>
 <h3 align="center"> Sinta-se à vontade para visualizar os repositórios! </h3>
 <h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
+<br>
