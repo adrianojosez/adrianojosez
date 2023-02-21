@@ -320,19 +320,19 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://www.reddit.com/user/adrianojose" target="_blank">
    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
   </a>
-<!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/14721890/adrianojose" target="_blank">
-   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
-  </a>
-</div>
-<div style="display: inline" align="center"> 
-<!-- GitLab -->
-  <a href="https://gitlab.com/adrianojose" target="_blank">
-   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
-  </a>
 <!-- Slack -->
   <a href="https://app.slack.com/client/T04Q2NRAQ5C/D04Q2Q62GVC/rimeto_profile/U04Q9AXKUF4" target="_blank">
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
+  </a>
+</div>
+<div style="display: inline" align="center">
+<!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/14721890/adrianojose" target="_blank">
+   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
+  </a> 
+<!-- GitLab -->
+  <a href="https://gitlab.com/adrianojose" target="_blank">
+   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
   </a>
 <!-- Bitbucket -->
   <a href="https://bitbucket.org/adrianojosez" target="_blank">
