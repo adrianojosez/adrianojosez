@@ -311,7 +311,11 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 <!-- Discord -->
   <a href="https://discord.com/channels/942266705718181919/942266706280206369" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>  
+  </a>
+<!-- Spotify -->
+  <a href="https://open.spotify.com/user/ki90un12p28dddp9fjzisrt7g" target="_blank">
+   <img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  </a>
 <!-- Reddit -->
   <a href="https://www.reddit.com/user/adrianojose" target="_blank">
    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
