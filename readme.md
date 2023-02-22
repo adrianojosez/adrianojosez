@@ -179,6 +179,26 @@
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=adrianojosez&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
+  
+  <a href="https://github.com/adrianojosez/nome-do-repositorio">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=CRUD&theme=react&bg_color=0D1117" alt="texto-alt">
+  </a>
+  
+  <a href="https://github.com/adrianojosez/nome-do-repositorio">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=gamedev&theme=react&bg_color=0D1117" alt="texto-alt">
+  </a>
+  
+  <a href="https://github.com/adrianojosez/nome-do-repositorio">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=license&theme=react&bg_color=0D1117" alt="texto-alt">
+  </a>
+    
+  <a href="https://github.com/adrianojosez/nome-do-repositorio">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=readme&theme=react&bg_color=0D1117" alt="texto-alt">
+  </a>
+    
+  <a href="https://github.com/adrianojosez/nome-do-repositorio">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=Diario&theme=react&bg_color=0D1117" alt="texto-alt">
+  </a>
     
 <!-- <p align="center"><a href="https://github.com/adrianojosez?tab=repositories">
   <img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
