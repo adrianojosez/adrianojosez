@@ -165,7 +165,7 @@
   [![Firebase](https://skills.thijs.gg/icons?i=firebase)](https://pt.wikipedia.org/wiki/firebase)
   [![Lua](https://skills.thijs.gg/icons?i=lua)](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o))
   [![Python](https://skills.thijs.gg/icons?i=python)](https://pt.wikipedia.org/wiki/Python)
-
+  [![Jquery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/Jquery)
 <br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
