@@ -310,6 +310,40 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   </a>    
 </div>
 <br>
+  
+<!-- __________________________________________________________________________________________________________________________________________________ -->
+
+## 📒 Estudos:
+
+<div style="display: inline" align="center">
+
+<!-- Codewars -->
+  <a href="https://www.codewars.com/users/adrianojose">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
+  </a>
+  
+<!-- Coursera -->
+  <a href="https://www.coursera.org/user/0b00b00a968a7453c377ad8be0efa19a">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"" target="_blank">
+  </a>
+  
+<!-- Freecodecamp -->
+  <a href="https://www.freecodecamp.org/adrianojosez">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
+  </a>
+  
+<!-- Hackerrank -->
+  <a href="https://www.hackerrank.com/adrianojose">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
+  </a>
+  
+<!-- Letcode -->
+  <a href="https://leetcode.com/adrianojose/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank">
+  </a>
+ 
+</div>
+<br>
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
