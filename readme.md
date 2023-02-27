@@ -90,6 +90,7 @@
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
   [![Netlify](https://skills.thijs.gg/icons?i=netlify)](https://pt.wikipedia.org/wiki/netlify)
+  [![Gitlab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
 
