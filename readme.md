@@ -404,6 +404,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://adrianojose.hashnode.dev/" target="_blank">
    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank">
   </a>
+<!-- Pinterest -->
+  <a href="www.pinterest.com/adrianojosezz" target="_blank">
+   <img src="https://img.shields.io/badge/Pinterest-c8232c?style=for-the-badge&logo=pinterest&logoColor=white" target="_blank">
+  </a>                                                                                                                            
 </div>
 <br>
   
