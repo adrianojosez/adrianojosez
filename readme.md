@@ -184,6 +184,10 @@
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=gamedev&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
+    
+  </div>
+    
+  <div align="center">
   
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=license&theme=react&bg_color=0D1117" alt="texto-alt">
