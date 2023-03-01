@@ -171,7 +171,7 @@
   
 <h4>Na visão geral abaixo, estão os projetos que estou trabalhando no momento:</h4>
   
-  <div align="center">
+  <div>
     
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=adrianojosez&theme=react&bg_color=0D1117" alt="texto-alt">
@@ -187,7 +187,7 @@
     
   </div>
     
-  <div align="center">
+  <div>
   
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=license&theme=react&bg_color=0D1117" alt="texto-alt">
