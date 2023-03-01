@@ -13,15 +13,9 @@
 <h4>Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:</h4>
 
 <div align="center">
-
-<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojosez&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
-
-<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&theme=dark" > 
-
-<!-- ![Adriano José Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adrianojosez&custom_title=adrianojosez's%20GitHub%20Activity%20Graph&bg_color=151515&color=151515&line=ffffff&pointffffff&area_color=ffffff&title_color=fff&area=true) -->
- 
-<img height="336em" src="https://github-readme-activity-graph.cyclic.app/graph?username=adrianojosez&custom_title=adrianojosez's%20GitHub%20Activity%20Graph&bg_color=151515&color=151515&line=ffffff&pointffffff&area_color=ffffff&title_color=fff&area=true"> 
-
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojosez&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&theme=dark" > 
+  <img height="336em" src="https://github-readme-activity-graph.cyclic.app/graph?username=adrianojosez&custom_title=adrianojosez's%20GitHub%20Activity%20Graph&bg_color=151515&color=151515&line=ffffff&pointffffff&area_color=ffffff&title_color=fff&area=true"> 
 </div>  
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
