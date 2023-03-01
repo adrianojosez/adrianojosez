@@ -171,34 +171,34 @@
   
 <h4>Na visão geral abaixo, estão os projetos que estou trabalhando no momento:</h4>
   
-  <div>
+  <div align="center">
     
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=adrianojosez&theme=react&bg_color=0D1117" alt="texto-alt">
+    <img height="150em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=adrianojosez&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
   
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=CRUD&theme=react&bg_color=0D1117" alt="texto-alt">
+    <img height="150em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=CRUD&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
   
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=gamedev&theme=react&bg_color=0D1117" alt="texto-alt">
+    <img height="150em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=gamedev&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
     
   </div>
     
-  <div>
+  <div align="center">
   
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=license&theme=react&bg_color=0D1117" alt="texto-alt">
+    <img height="150em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=license&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
     
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=readme&theme=react&bg_color=0D1117" alt="texto-alt">
+    <img height="150em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=readme&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
     
   <a href="https://github.com/adrianojosez/nome-do-repositorio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=Diario&theme=react&bg_color=0D1117" alt="texto-alt">
+    <img height="150em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=Diario&theme=react&bg_color=0D1117" alt="texto-alt">
   </a>
     
 <!-- <p align="center"><a href="https://github.com/adrianojosez?tab=repositories">
