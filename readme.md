@@ -408,6 +408,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 <!-- Pinterest -->
   <a href="www.pinterest.com/adrianojosezz" target="_blank">
    <img src="https://img.shields.io/badge/Pinterest-c8232c?style=for-the-badge&logo=pinterest&logoColor=white" target="_blank">
+  </a>
+<!-- Mastodon -->
+  <a href="https://mastodon.social/@adrianojose">
+    <img src="https://img.shields.io/badge/Mastodon-5f5af2?style=for-the-badge&logo=mastodon&logoColor=white" target="_blank">
   </a>                                                                                                                            
 </div>
 <br>
