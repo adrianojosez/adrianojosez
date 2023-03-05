@@ -375,12 +375,12 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://www.reddit.com/user/adrianojose" target="_blank">
    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
   </a>
+</div>
+<div style="display: inline" align="center">                                                                                                                       
 <!-- Slack -->
   <a href="https://app.slack.com/client/T04Q2NRAQ5C/D04Q2Q62GVC/rimeto_profile/U04Q9AXKUF4" target="_blank">
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
   </a>
-</div>
-<div style="display: inline" align="center">
 <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/14721890/adrianojose" target="_blank">
    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
@@ -401,18 +401,24 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   <a href="https://dev.to/adrianojose" target="_blank">
    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
   </a>
+</div>
+<div style="display: inline" align="center">                                                                                                                        
 <!-- Hashnode -->
   <a href="https://adrianojose.hashnode.dev/" target="_blank">
    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank">
   </a>
 <!-- Pinterest -->
-  <a href="www.pinterest.com/adrianojosezz" target="_blank">
+  <a href="www.pinterest.com/developeradrianojose" target="_blank">
    <img src="https://img.shields.io/badge/Pinterest-c8232c?style=for-the-badge&logo=pinterest&logoColor=white" target="_blank">
   </a>
 <!-- Mastodon -->
   <a href="https://mastodon.social/@adrianojose">
     <img src="https://img.shields.io/badge/Mastodon-5f5af2?style=for-the-badge&logo=mastodon&logoColor=white" target="_blank">
-  </a>                                                                                                                            
+  </a>
+<!-- Google developers -->
+  <a href="https://developers.google.com/profile/u/adrianojose">
+    <img src="https://img.shields.io/badge/GoogleDev-e74335?style=for-the-badge&logo=google&logoColor=white" target="_blank">
+  </a>
 </div>
 <br>
   
