@@ -87,6 +87,7 @@
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
   [![Netlify](https://skills.thijs.gg/icons?i=netlify)](https://pt.wikipedia.org/wiki/netlify)
   [![Gitlab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/netlify)
+  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
 
@@ -160,9 +161,16 @@
   [![Wordpress](https://skills.thijs.gg/icons?i=wordpress)](https://pt.wikipedia.org/wiki/wordpress)
   [![aws](https://skills.thijs.gg/icons?i=aws)](https://pt.wikipedia.org/wiki/aws)
   [![Firebase](https://skills.thijs.gg/icons?i=firebase)](https://pt.wikipedia.org/wiki/firebase)
+  
   [![Lua](https://skills.thijs.gg/icons?i=lua)](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o))
   [![Python](https://skills.thijs.gg/icons?i=python)](https://pt.wikipedia.org/wiki/Python)
   [![Jquery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/Jquery)
+  [![Redux](https://skills.thijs.gg/icons?i=redux)](https://pt.wikipedia.org/wiki/redux)
+  [![Regex](https://skills.thijs.gg/icons?i=regex)](https://pt.wikipedia.org/wiki/regex)
+  [![tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://pt.wikipedia.org/wiki/tailwind)
+  [![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/unity)
+  [![Unreal](https://skills.thijs.gg/icons?i=unreal)](https://pt.wikipedia.org/wiki/unreal)
+  [![Linux](https://skills.thijs.gg/icons?i=linux)](https://pt.wikipedia.org/wiki/linux)
 <br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
