@@ -424,9 +424,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
     <img src="https://img.shields.io/badge/Mastodon-5f5af2?style=for-the-badge&logo=mastodon&logoColor=white" target="_blank">
   </a>
 <!-- Kaggle -->
-<!--   <a href="https://www.kaggle.com/adrianojos">
+  <a href="https://www.kaggle.com/adrianojosez">
     <img src="https://img.shields.io/badge/Kaggle-75cffe?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
-  </a> -->
+  </a>
 <!-- Google developers -->
   <a href="https://developers.google.com/profile/u/adrianojose">
     <img src="https://img.shields.io/badge/GoogleDev-e74335?style=for-the-badge&logo=google&logoColor=white" target="_blank">
