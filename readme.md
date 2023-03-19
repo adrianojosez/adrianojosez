@@ -161,6 +161,7 @@
   [![Wordpress](https://skills.thijs.gg/icons?i=wordpress)](https://pt.wikipedia.org/wiki/wordpress)
   [![aws](https://skills.thijs.gg/icons?i=aws)](https://pt.wikipedia.org/wiki/aws)
   [![Firebase](https://skills.thijs.gg/icons?i=firebase)](https://pt.wikipedia.org/wiki/firebase)
+  [![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
   
   [![Lua](https://skills.thijs.gg/icons?i=lua)](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o))
   [![Python](https://skills.thijs.gg/icons?i=python)](https://pt.wikipedia.org/wiki/Python)
@@ -171,6 +172,7 @@
   [![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/unity)
   [![Unreal](https://skills.thijs.gg/icons?i=unreal)](https://pt.wikipedia.org/wiki/unreal)
   [![Linux](https://skills.thijs.gg/icons?i=linux)](https://pt.wikipedia.org/wiki/linux)
+  [![Postgresql](https://skills.thijs.gg/icons?i=postgresql)](https://pt.wikipedia.org/wiki/postgresql)
 <br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
