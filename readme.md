@@ -1,6 +1,8 @@
 <h1 align="center">
 👨🏻‍💻 Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a>, Full stack developer
 </h1>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá;+Meu+nome+é+Adriano+José;Tenho+20+anos+;Sou+do+Brasil;Estou+estudando+Análise+e+desenvolvimento+de+sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg)
   
   💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na <a href="https://fatecrl.edu.br">Fatec</a>
   
