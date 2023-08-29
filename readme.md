@@ -150,6 +150,14 @@
   [![Heroku](https://skills.thijs.gg/icons?i=heroku)](https://pt.wikipedia.org/wiki/heroku)
   <br>
 </div>
+
+<h4>Sistemas operacionais:</h4>
+
+<div style="display: inline_block">
+  
+  [![Linux](https://skills.thijs.gg/icons?i=linux)](https://pt.wikipedia.org/wiki/linux)
+  <br>
+</div>
   
 <br>
   
@@ -174,7 +182,6 @@
   [![tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://pt.wikipedia.org/wiki/tailwind)
   [![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/unity)
   [![Unreal](https://skills.thijs.gg/icons?i=unreal)](https://pt.wikipedia.org/wiki/unreal)
-  [![Linux](https://skills.thijs.gg/icons?i=linux)](https://pt.wikipedia.org/wiki/linux)
   [![Postgresql](https://skills.thijs.gg/icons?i=postgresql)](https://pt.wikipedia.org/wiki/postgresql)
 <br>
   
