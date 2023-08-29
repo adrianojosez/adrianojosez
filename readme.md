@@ -2,7 +2,7 @@
 👨🏻‍💻 Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a>, Full stack developer
 </h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá;+Meu+nome+é+Adriano+José;Tenho+20+anos+;Sou+do+Brasil;Estou+estudando+Análise+e+desenvolvimento+de+sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá;+Meu+nome+é+Adriano+José;Tenho+20+anos+;Sou+do+Brasil;Estudando+Análise+e+desenvolvimento+de+sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg)
   
   💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na <a href="https://fatecrl.edu.br">Fatec</a>
 <br>
@@ -14,10 +14,19 @@
 
 <h4>Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:</h4>
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adrianojosez&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<img align="left" height="415px" src="https://adrianojosez-github-readme-stats.vercel.app/api/top-langs?username=adrianojosez&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<div align="right">
+  <img height="203px" src="https://adrianojosez-github-readme-stats.vercel.app/api?username=adrianojosez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="203px" src="https://streak-stats.demolab.com?user=adrianojosez&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
 <div align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianojosez&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
+  <img src="https://adrianojosez-github-readme-stats.vercel.app/api/wakatime?username=adrianojosez&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+</div>
+
+<div align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&theme=dark" > 
-<!--   <img height="336em" src="https://github-readme-activity-graph.cyclic.app/graph?username=adrianojosez&custom_title=adrianojosez's%20GitHub%20Activity%20Graph&bg_color=151515&color=fff&line=fff&pointfff&area_color=fff&title_color=fff&area=true">  -->
   <img src="https://github-profile-trophy.vercel.app/?username=adrianojosez&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
