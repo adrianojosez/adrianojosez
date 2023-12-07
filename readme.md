@@ -60,10 +60,12 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
+[![Sass](https://skills.thijs.gg/icons?i=sass)](https://pt.wikipedia.org/wiki/sass)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
 [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
+[![Angular](https://skills.thijs.gg/icons?i=angular)](https://pt.wikipedia.org/wiki/angular)
   <br> 
 </div>
 
@@ -73,6 +75,9 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 <!--   <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 [![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
+[![Csharp](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/nodejs)
+[![.Net](https://skills.thijs.gg/icons?i=dotnet)](https://pt.wikipedia.org/wiki/nodejs)
+[![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
   <br> 
 </div>
 
@@ -85,6 +90,14 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br> 
 </div>
 
+<h5>Banco de dados:</h5>
+
+<div style="display: inline_block">
+  
+  [![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
+  <br>
+<div>
+
 <h4>Ferramentas:</h4>
 
 <div style="display: inline_block">
@@ -94,12 +107,13 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
   [![Vscode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/vscode)
+  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
   [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/figma)
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
-  [![Netlify](https://skills.thijs.gg/icons?i=netlify)](https://pt.wikipedia.org/wiki/netlify)
+  [![Azure](https://skills.thijs.gg/icons?i=azure)](https://pt.wikipedia.org/wiki/azure)
   [![Gitlab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/netlify)
-  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
+  [![Netlify](https://skills.thijs.gg/icons?i=netlify)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
 
@@ -117,7 +131,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 <div style="display: inline_block">
   
-  [![Angular](https://skills.thijs.gg/icons?i=angular)](https://pt.wikipedia.org/wiki/angular)
+
   <br>
 <div>
 
@@ -126,7 +140,6 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 <div style="display: inline_block">
   
 <!--   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
-  [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
   [![Spring](https://skills.thijs.gg/icons?i=spring)](https://pt.wikipedia.org/wiki/spring)
   <br>
 <div>
@@ -155,7 +168,6 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 <div style="display: inline_block">
   
-  [![Azure](https://skills.thijs.gg/icons?i=azure)](https://pt.wikipedia.org/wiki/azure)
   [![Heroku](https://skills.thijs.gg/icons?i=heroku)](https://pt.wikipedia.org/wiki/heroku)
   <br>
 </div>
@@ -173,7 +185,6 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 <h4>Pretendo estudar no futuro:</h4>
   
   [![Vue](https://skills.thijs.gg/icons?i=vuejs)](https://pt.wikipedia.org/wiki/vuejs)
-  [![Sass](https://skills.thijs.gg/icons?i=sass)](https://pt.wikipedia.org/wiki/sass)
   [![Nestjs](https://skills.thijs.gg/icons?i=nestjs)](https://pt.wikipedia.org/wiki/nestjs)
   [![Nextjs](https://skills.thijs.gg/icons?i=nextjs)](https://pt.wikipedia.org/wiki/nextjs)
   [![Electronjs](https://skills.thijs.gg/icons?i=electron)](https://pt.wikipedia.org/wiki/electron)
@@ -181,7 +192,6 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   [![Wordpress](https://skills.thijs.gg/icons?i=wordpress)](https://pt.wikipedia.org/wiki/wordpress)
   [![aws](https://skills.thijs.gg/icons?i=aws)](https://pt.wikipedia.org/wiki/aws)
   [![Firebase](https://skills.thijs.gg/icons?i=firebase)](https://pt.wikipedia.org/wiki/firebase)
-  [![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
   
   [![Lua](https://skills.thijs.gg/icons?i=lua)](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o))
   [![Python](https://skills.thijs.gg/icons?i=python)](https://pt.wikipedia.org/wiki/Python)
