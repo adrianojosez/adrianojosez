@@ -81,7 +81,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br> 
 </div>
 
-<h5>Mobile:</h5>
+<h5>📱 Mobile:</h5>
 
 <div style="display: inline_block">
 
