@@ -320,7 +320,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
-** 👨🏻‍💻 Desenvolvedor Full Stack** \
+👨🏻‍💻 **Desenvolvedor Full Stack** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
 Setembro 2023 - Momento \
 Linguagens & Tecnologias: `Node`, `.Net`\
@@ -329,7 +329,7 @@ Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
-** 💻 Desenvolvedor Front end** \
+💻 **Desenvolvedor Front end** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
 Março 2022 - Agosto 2023 \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`\
