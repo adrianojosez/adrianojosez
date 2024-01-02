@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨🏻‍💻 Full stack developer
+Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨🏻‍💻 Full Stack Developer
 </h1>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá;+Meu+nome+é+Adriano+José;Tenho+20+anos+;Sou+do+Brasil;Estudando+Análise+e+desenvolvimento+de+sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg)
@@ -47,7 +47,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 <h4>Linguagens e tecnologias:</h4>
 
-<h5>Front-end:</h5>
+<h5>💻 Front-end:</h5>
 
 <div style="display: inline_block">
 
@@ -69,7 +69,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br> 
 </div>
 
-<h5>Back-end:</h5>
+<h5>👨🏻‍💻 Back-end:</h5>
 
 <div style="display: inline_block">
 
@@ -90,7 +90,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br> 
 </div>
 
-<h5>Banco de dados:</h5>
+<h5>🎲 Banco de dados:</h5>
 
 <div style="display: inline_block">
   
@@ -98,7 +98,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br>
 <div>
 
-<h4>Ferramentas:</h4>
+<h4>🔨 Ferramentas:</h4>
 
 <div style="display: inline_block">
   
@@ -127,7 +127,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 <h4>Linguagens e tecnologias:</h4>
 
-<h5>Front-end:</h5>
+<h5>💻 Front-end:</h5>
 
 <div style="display: inline_block">
   
@@ -135,7 +135,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br>
 <div>
 
-<h5>Back-end:</h5>
+<h5>👨🏻‍💻 Back-end:</h5>
 
 <div style="display: inline_block">
   
@@ -144,7 +144,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br>
 <div>
   
-<h5>Mobile:</h5>
+<h5>📱 Mobile:</h5>
 
 <div style="display: inline_block">
   
@@ -155,7 +155,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br>
 </div>
 
-<h5>Banco de dados:</h5>
+<h5>🎲 Banco de dados:</h5>
 
 <div style="display: inline_block">
   
@@ -164,7 +164,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br>
 <div>
   
-<h4>Ferramentas:</h4>
+<h4>🔨 Ferramentas:</h4>
 
 <div style="display: inline_block">
   
@@ -172,7 +172,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   <br>
 </div>
 
-<h4>Sistemas operacionais:</h4>
+<h4>⚙ Sistemas Operacionais:</h4>
 
 <div style="display: inline_block">
   
@@ -182,7 +182,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   
 <br>
   
-<h4>Pretendo estudar no futuro:</h4>
+<h4>Pretendo Estudar no Futuro:</h4>
   
   [![Vue](https://skills.thijs.gg/icons?i=vuejs)](https://pt.wikipedia.org/wiki/vuejs)
   [![Nestjs](https://skills.thijs.gg/icons?i=nestjs)](https://pt.wikipedia.org/wiki/nestjs)
@@ -249,7 +249,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
   
-## 💻 Lista de projetos futuros:
+## 💻 Lista de Projetos Futuros:
   
 <h4>Na visão geral abaixo, estão os projetos que pretendo desenvolver no futuro:</h4>
 
@@ -275,13 +275,13 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
-## 🎓 Formação acadêmica:
+## 🎓 Formação Acadêmica:
 
 <h4>Na visão geral abaixo, você encontrará minhas formações acadêmicas mais recentes:</h4>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://i.ibb.co/FYR5CVX/fatecrl.png"/>](https://fatecrl.edu.br/)
 
-**Análise e desenvolvimento de sistemas** \
+**Análise e Desenvolvimento de Sistemas** \
 [**Fatec Baixada Santista - Rubens Lara**](https://fatecrl.edu.br/) • Aluno \
 Fevereiro 2022 - Dezembro 2024 \
 Linguagens & Tecnologias: `C`, \
@@ -291,7 +291,7 @@ Projetos em destaque: []()
   
 [<img align="left" height="120px" width="120px" alt="logoetecdraruthcardoso" src="https://i.ibb.co/x214WJD/etec.jpg"/>](https://etecdrc.com.br/)
 
-**Desenvolvimento de sistemas** \
+**Desenvolvimento de Sistemas** \
 [**Etec Drª. Ruth Cardoso**](https://etecdrc.com.br/) • Aluno \
 Agosto 2020 - Dezembro 2021 \
 Linguagens & Tecnologias: `C#`, \
@@ -314,7 +314,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
-## 💼 Experiência profissional:
+## 💼 Experiência Profissional:
 
 <h4>Na visão geral abaixo, você encontrará minhas experiências de trabalho mais recentes:</h4>
 
