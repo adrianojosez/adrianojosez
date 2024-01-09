@@ -182,7 +182,7 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   
 <br>
   
-<h4>Pretendo Estudar no Futuro:</h4>
+<h4>📚 Pretendo Estudar no Futuro:</h4>
   
   [![Vue](https://skills.thijs.gg/icons?i=vuejs)](https://pt.wikipedia.org/wiki/vuejs)
   [![Nestjs](https://skills.thijs.gg/icons?i=nestjs)](https://pt.wikipedia.org/wiki/nestjs)
@@ -254,21 +254,17 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 <h4>Na visão geral abaixo, estão os projetos que pretendo desenvolver no futuro:</h4>
 
 <ul>
-  <li> Chat </li>
-  <li> Chess Game </li>
-  <li> Music Player </li>
-  <li> Ecommerce Website </li>
-  <li> Landing page </li>
-  <li> Drawing App </li>
-  <li> Bot Whatsapp </li>
-  <li> Parking control App </li>
-  <li> Weather app </li>
-  <li> Flappy bird </li>
-  <li> Infinite Scroll React </li>
-  <li> Buscador de CEP </li>
-  <li> Dashboard </li>
-  <li> Conversor de moedas </li>
-  <li> Quiz App </li>
+  <li>💬 Chat </li>
+  <li>🎵 Music Player </li>
+  <li>🏪 Ecommerce Website </li>
+  <li>🎨 Drawing App </li>
+  <li>🤖 Bot Whatsapp </li>
+  <li>🚘 Parking control App </li>
+  <li>🐦 Flappy bird </li>
+  <li>🏠 Buscador de CEP </li>
+  <li>📊 Dashboard </li>
+  <li>💱 Conversor de moedas </li>
+  <li>🧠 Quiz App </li>
 </ul>
 
 <br>
