@@ -7,7 +7,6 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
   
   💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na <a href="https://fatecrl.edu.br">Fatec</a>
 <br>
-  👩🏻‍💻 &nbsp; Atualmente trabalhando com desenvolvimento Front end na <a href="https://modalgr.com.br">ModalGR</a>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
@@ -319,7 +318,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 
 👨🏻‍💻 **Desenvolvedor Full Stack** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
-Setembro 2023 - Momento \
+Setembro 2023 - Fevereiro 2024 \
 Linguagens & Tecnologias: `Node`, `.Net`\
 Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 <br>
