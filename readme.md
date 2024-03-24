@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f352d&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57352C&height=100&section=header"/>
 <h1 align="center">
 Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨🏻‍💻 Full Stack Developer
 </h1>
@@ -318,7 +318,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 
 👨🏻‍💻 **Desenvolvedor Full Stack** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
-Setembro 2023 - Fevereiro 2024 \
+Agosto 2023 - Janeiro 2024 \
 Linguagens & Tecnologias: `Node`, `.Net`\
 Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 <br>
@@ -327,7 +327,7 @@ Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 
 💻 **Desenvolvedor Front end** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
-Março 2022 - Agosto 2023 \
+Março 2022 - Julho 2023 \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`\
 Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
 <br>
