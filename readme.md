@@ -5,7 +5,15 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá;+Meu+nome+é+Adriano+José;Tenho+20+anos+;Sou+do+Brasil;Estudando+Análise+e+desenvolvimento+de+sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg)
   
-  💻 &nbsp; Estudante em Análise e desenvolvimento de sistemas na <a href="https://fatecrl.edu.br">Fatec</a>
+💻 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://fatecrl.edu.br">Fatec</a>  
+🥋 &nbsp; Luto Jiu-Jitsu no tempo livre — disciplina, foco e respeito sempre em primeiro lugar  
+🎞️ &nbsp; Curto assistir filmes (especialmente ação, suspense e ficção científica)  
+🎮 &nbsp; Apaixonado por games — de clássicos retrô até títulos modernos competitivos  
+🎧 &nbsp; Escuto música o dia todo — lo-fi enquanto programo, e rock/rap nos treinos  
+🧠 &nbsp; Gosto de aprender coisas novas todo dia, principalmente sobre tecnologia
+🏋️ &nbsp; Gosto de treinar — academia e exercícios são parte da minha rotina pra manter o corpo e a mente em dia  
+📚 &nbsp; Curtindo cada vez mais o hábito de ler livros, principalmente sobre desenvolvimento pessoal e tecnologia
+
 <br>
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
@@ -267,27 +275,37 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 
 <h4>Na visão geral abaixo, você encontrará minhas experiências de trabalho mais recentes:</h4>
 
-[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+<!-- Mega Imagem -->
+[<img align="left" height="120px" width="120px" alt="logo mega imagem" src="https://i.ibb.co/r2x9M5CB/logo-mega-imagem-k-Yq-Tgv.png"/>](https://megaimagem.com.br)
 
-👨🏻‍💻 **Desenvolvedor Full Stack** \
-[**ModalGR**](https://www.modalgr.com.br/) • Estágio \
-Agosto 2023 - Janeiro 2024 \
-Linguagens & Tecnologias: `Node`, `.Net`\
-Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
+👨🏻‍💻 **Desenvolvedor Full Stack**  
+[**Mega Imagem**](https://megaimagem.com.br) • Efetivo  
+Janeiro 2025 – Atualmente  
+Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `Next.js`, `Node.js`, `SQL`  
+Projetos em destaque: sistemas internos de agendamento, landing pages, integrações com APIs e otimização SEO  
 <br>
 
-[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+<!-- ModalGR Full -->
+[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br)
 
-💻 **Desenvolvedor Front end** \
-[**ModalGR**](https://www.modalgr.com.br/) • Estágio \
-Março 2022 - Julho 2023 \
-Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`\
-Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)
+🧑🏻‍💻 **Desenvolvedor Full Stack**  
+[**ModalGR**](https://www.modalgr.com.br) • Estágio  
+Agosto 2023 – Janeiro 2024  
+Linguagens & Tecnologias: `Node`, `.Net`  
+Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)  
 <br>
+
+<!-- ModalGR Front -->
+[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br)
+
+💻 **Desenvolvedor Front-End**  
+[**ModalGR**](https://www.modalgr.com.br) • Estágio  
+Março 2022 – Julho 2023  
+Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`  
+Projetos em destaque: [TimeKeeping](https://timekeeping-portal.modalgr.com.br)  
 <br>
-<br>
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) para uma descrição mais detalhada da minha experiência de trabalho.
-<br>
+
+
  
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
