@@ -12,6 +12,8 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 ## 📈 Informações sobre meu GitHub:
 
+Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianojosez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
