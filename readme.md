@@ -12,23 +12,12 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 ## 📈 Informações sobre meu GitHub:
 
-<h4>Na visão geral abaixo, alguns dados referentes a minha conta na plataforma:</h4>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianojosez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adrianojosez&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-<img align="left" height="415px" src="https://adrianojosez-github-readme-stats.vercel.app/api/top-langs?username=adrianojosez&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
-<div align="right">
-  <img height="203px" src="https://adrianojosez-github-readme-stats.vercel.app/api?username=adrianojosez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-  <img height="203px" src="https://streak-stats.demolab.com?user=adrianojosez&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://adrianojosez-github-readme-stats.vercel.app/api/wakatime?username=adrianojosez&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
-</div>
-
-<div align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&theme=dark" > 
-  <img src="https://github-profile-trophy.vercel.app/?username=adrianojosez&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
+---
 
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
