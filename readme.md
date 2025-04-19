@@ -68,50 +68,40 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 <h5>👨🏻‍💻 Back-end:</h5>
 
 <div style="display: inline_block">
-
-<!--   <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
-[![Node](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
-[![Csharp](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/nodejs)
-[![.Net](https://skills.thijs.gg/icons?i=dotnet)](https://pt.wikipedia.org/wiki/nodejs)
-[![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
-  <br> 
+  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
+
 
 <h5>📱 Mobile:</h5>
 
 <div style="display: inline_block">
-
-<!--   <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
-[![React Native](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/react)
-  <br> 
+  <img align="center" alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 <h5>🎲 Banco de dados:</h5>
 
 <div style="display: inline_block">
-  
-  [![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
-  <br>
-<div>
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+</div>
 
-<h4>🔨 Ferramentas:</h4>
+
+<h5>🔨 Ferramentas:</h5>
 
 <div style="display: inline_block">
-  
-<!--   <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
-  [![Vscode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/vscode)
-  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
-  [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/figma)
-  [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
-  [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
-  [![Azure](https://skills.thijs.gg/icons?i=azure)](https://pt.wikipedia.org/wiki/azure)
-  [![Gitlab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/netlify)
-  [![Netlify](https://skills.thijs.gg/icons?i=netlify)](https://pt.wikipedia.org/wiki/netlify)
-  <br>
+  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="IntelliJ IDEA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="GitLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Netlify" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg">
 </div>
+
 
 <br>
 
@@ -121,84 +111,56 @@ Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨�
 
 <h4>Na visão geral abaixo, estão as linguagens, tecnologias e ferramentas na qual estou estudando no momento:</h4>
 
-<h4>Linguagens e tecnologias:</h4>
-
-<h5>💻 Front-end:</h5>
-
+<h5>💻 Back-end:</h5>
 <div style="display: inline_block">
-  
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+</div>
 
-  <br>
-<div>
-
-<h5>👨🏻‍💻 Back-end:</h5>
-
-<div style="display: inline_block">
-  
-<!--   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
-  [![Spring](https://skills.thijs.gg/icons?i=spring)](https://pt.wikipedia.org/wiki/spring)
-  <br>
-<div>
-  
 <h5>📱 Mobile:</h5>
-
 <div style="display: inline_block">
-  
-<!--   <img align="center" alt="Dart" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
-  [![Dart](https://skills.thijs.gg/icons?i=dart)](https://pt.wikipedia.org/wiki/dart)
-  [![Flutter](https://skills.thijs.gg/icons?i=flutter)](https://pt.wikipedia.org/wiki/flutter)
-  <br>
+  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
 
 <h5>🎲 Banco de dados:</h5>
-
 <div style="display: inline_block">
-  
-<!--   <img align="center" alt="Mongodb" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
-  [![Mongodb](https://skills.thijs.gg/icons?i=mongodb)](https://pt.wikipedia.org/wiki/mongodb)
-  <br>
-<div>
-  
-<h4>🔨 Ferramentas:</h4>
-
-<div style="display: inline_block">
-  
-  [![Heroku](https://skills.thijs.gg/icons?i=heroku)](https://pt.wikipedia.org/wiki/heroku)
-  <br>
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
-<h4>⚙ Sistemas Operacionais:</h4>
-
+<h5>🔨 Ferramentas:</h5>
 <div style="display: inline_block">
-  
-  [![Linux](https://skills.thijs.gg/icons?i=linux)](https://pt.wikipedia.org/wiki/linux)
-  <br>
+  <img align="center" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
 </div>
+
+<h5>⚙ Sistemas Operacionais:</h5>
+<div style="display: inline_block">
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+
   
 <br>
   
-<h4>📚 Pretendo Estudar no Futuro:</h4>
-  
-  [![Vue](https://skills.thijs.gg/icons?i=vuejs)](https://pt.wikipedia.org/wiki/vuejs)
-  [![Nestjs](https://skills.thijs.gg/icons?i=nestjs)](https://pt.wikipedia.org/wiki/nestjs)
-  [![Nextjs](https://skills.thijs.gg/icons?i=nextjs)](https://pt.wikipedia.org/wiki/nextjs)
-  [![Electronjs](https://skills.thijs.gg/icons?i=electron)](https://pt.wikipedia.org/wiki/electron)
-  [![Expressjs](https://skills.thijs.gg/icons?i=express)](https://pt.wikipedia.org/wiki/express)
-  [![Wordpress](https://skills.thijs.gg/icons?i=wordpress)](https://pt.wikipedia.org/wiki/wordpress)
-  [![aws](https://skills.thijs.gg/icons?i=aws)](https://pt.wikipedia.org/wiki/aws)
-  [![Firebase](https://skills.thijs.gg/icons?i=firebase)](https://pt.wikipedia.org/wiki/firebase)
-  
-  [![Lua](https://skills.thijs.gg/icons?i=lua)](https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o))
-  [![Python](https://skills.thijs.gg/icons?i=python)](https://pt.wikipedia.org/wiki/Python)
-  [![Jquery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/Jquery)
-  [![Redux](https://skills.thijs.gg/icons?i=redux)](https://pt.wikipedia.org/wiki/redux)
-  [![Regex](https://skills.thijs.gg/icons?i=regex)](https://pt.wikipedia.org/wiki/regex)
-  [![tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://pt.wikipedia.org/wiki/tailwind)
-  [![Unity](https://skills.thijs.gg/icons?i=unity)](https://pt.wikipedia.org/wiki/unity)
-  [![Unreal](https://skills.thijs.gg/icons?i=unreal)](https://pt.wikipedia.org/wiki/unreal)
-  [![Postgresql](https://skills.thijs.gg/icons?i=postgresql)](https://pt.wikipedia.org/wiki/postgresql)
-<br>
+## 📚 Pretendo Estudar no Futuro:
+
+<div style="display: inline_block">
+  <img align="center" alt="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Electron" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
+  <img align="center" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="jQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Unreal Engine" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+
   
 <!-- __________________________________________________________________________________________________________________________________________________ -->
 
