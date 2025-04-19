@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57352C&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cc7d6&height=100&section=header"/>
 <h1 align="center">
 Olá, sou <a href="https://adrianojose.netlify.app/">Adriano José</a> | 👨🏻‍💻 Full Stack Developer
 </h1>
@@ -468,4 +468,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 <br>
 <h3 align="center"> Sinta-se à vontade para visualizar os repositórios! </h3>
 <h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f352d&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cc7d6&height=100&section=footer"/>
