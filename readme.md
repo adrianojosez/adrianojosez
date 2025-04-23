@@ -279,7 +279,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) 
 <!-- Mega Imagem -->
 [<img align="left" height="120px" width="120px" alt="logo mega imagem" src="https://i.ibb.co/r2x9M5CB/logo-mega-imagem-k-Yq-Tgv.png"/>](https://megaimagem.com.br)
 
-👨🏻‍💻 **Desenvolvedor Full Stack**  
+👨🏻‍💻 **Desenvolvedor Front End com foco em SEO**  
 [**Mega Imagem**](https://megaimagem.com.br) • Efetivo  
 Janeiro 2025 – Atualmente  
 Linguagens & Tecnologias: `HTML`, `CSS`, `JS`, `TS`, `React`, `Next.js`, `Node.js`, `SQL`  
