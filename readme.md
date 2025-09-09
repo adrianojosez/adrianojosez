@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cc7d6&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00101f&height=100&section=header"/>
 <h1 align="center">
 Olá, sou <a href="https://adrianojosedev.netlify.app/">Adriano José</a> | 👨🏻‍💻 Full Stack Developer
 </h1>
