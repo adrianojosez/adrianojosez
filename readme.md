@@ -6,7 +6,6 @@ Olá, sou <a href="https://adrianojosedev.netlify.app/">Adriano José</a> | 👨
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá;+Meu+nome+é+Adriano+José;Tenho+22+anos+;Sou+do+Brasil;Formado+em+Análise+e+desenvolvimento+de+sistemas;Bem+vindo!+:%29)](https://git.io/typing-svg)
   
 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas na <a href="https://fatecrl.edu.br">Fatec</a>  
-🥋 &nbsp; Luto Jiu-Jitsu no tempo livre — disciplina, foco e respeito sempre em primeiro lugar  
 🎞️ &nbsp; Curto assistir filmes (especialmente ação, suspense e ficção científica)  
 🎮 &nbsp; Apaixonado por games — de clássicos retrô até títulos modernos competitivos  
 🎧 &nbsp; Escuto música o dia todo — lo-fi enquanto programo, e rock/rap nos treinos  
