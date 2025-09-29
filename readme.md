@@ -8,7 +8,6 @@ Olá, sou <a href="https://adrianojosedev.netlify.app/">Adriano José</a> | 👨
 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas na <a href="https://fatecrl.edu.br">Fatec</a>  
 🎞️ &nbsp; Curto assistir filmes (especialmente ação, suspense e ficção científica)  
 🎮 &nbsp; Apaixonado por games — de clássicos retrô até títulos modernos competitivos  
-🎧 &nbsp; Escuto música o dia todo — lo-fi enquanto programo, e rock/rap nos treinos  
 🧠 &nbsp; Gosto de aprender coisas novas todo dia, principalmente sobre tecnologia  
 🏋️ &nbsp; Gosto de treinar — academia e exercícios são parte da minha rotina pra manter o corpo e a mente em dia  
 📚 &nbsp; Curtindo cada vez mais o hábito de ler livros, principalmente sobre desenvolvimento pessoal e tecnologia
