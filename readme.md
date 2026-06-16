@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=32&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Adriano+José;Tenho+22+anos;Sou+do+Brasil;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=32&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Adriano+José;Tenho+23+anos;Sou+do+Brasil;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 Aqui você encontrará um desenvolvedor focado em construir soluções eficientes, otimizadas e elegantes, unindo o melhor das engenharias de Front-end, Back-end e estratégias de posicionamento digital.
 
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas na [Fatec Baixada Santista](https://fatecrl.edu.br).
-* 🧠 **Evolução Contínua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
+* 🧠 **Evolução Continua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
 * 🏋️ **Mente & Corpo:** Musculação e treinos físicos fazem parte da minha rotina diária para manter o equilíbrio e o foco.
 * 📚 **Desenvolvimento Pessoal:** Adquirindo cada vez mais o hábito da leitura, focado em engenharia de software e evolução pessoal.
 * 🎮 **Gaming:** Apaixonado por jogos — desde a nostalgia marcante dos clássicos retrô até os competitivos modernos.
@@ -161,7 +161,7 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
 
 ---
 
-### 🔭 Pretendo estudar no futuro:
+### ### 🔭 Pretendo estudar no futuro:
 
 <p align="left">
   <img alt="Vue.js" title="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp;
@@ -215,18 +215,12 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
   </a>
 </p>
 
-### 🔮 Lista de Projetos Futuros:
-*   💬 **Chat App**
-*   🎵 **Music Player**
-*   🏪 **Ecommerce Website**
-*   🎨 **Drawing App**
-*   🤖 **Bot WhatsApp**
-*   🚘 **Parking Control App**
-*   🐦 **Flappy Bird Clone**
-*   🏠 **Buscador de CEP**
-*   📊 **Dashboard de Performance**
-*   💱 **Conversor de Moedas**
-*   🧠 **Quiz App**
+### 🔮 Próximos Desafios de Engenharia:
+*   🏗️ **Arquitetura de Microserviços para E-commerce:** Design escalável focado em resiliência, mensageria distribuída e alta disponibilidade.
+*   📊 **Dashboard Analítico com Server-Side Rendering (SSR):** Painel de performance e BI com renderização otimizada para carregamento instantâneo.
+*   🤖 **Bot de Automação Omnichannel:** Sistema distribuído integrado a APIs de mensageria para automação inteligente de processos.
+*   🔐 **Gateway de Licenciamento & Controle de Acesso:** Implementação focada em segurança, criptografia e gerenciamento de sessões distribuídas.
+*   📈 **Aplicações Web Otimizadas para Core Web Vitals:** Engenharia de performance refinada com foco no limite técnico de velocidade e SEO arquitetural.
 
 ---
 
