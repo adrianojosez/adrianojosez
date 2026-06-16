@@ -14,7 +14,7 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Aqui você encontrará um desenvolvedor focado em construir soluções eficientes, otimizadas e elegantes, unindo o melhor das engenharias de Front-end e Back-end.
+Aqui você encontrará um desenvolvedor focado em construir soluções eficientes, otimizadas e elegantes, unindo o melhor das engenharias de Front-end, Back-end e estratégias de posicionamento digital.
 
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas na [Fatec Baixada Santista](https://fatecrl.edu.br).
 * 🧠 **Evolução Contínua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
@@ -32,7 +32,7 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
 🚀 **[Mega Imagem](https://megaimagem.com.br)** • *Efetivo (CLT)*  
 📅 Janeiro 2025 – Atualmente  
 🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `Next.js`, `Node.js`, `SQL`  
-🎯 *Destaque:* Sistemas internos de agendamento, landing pages, integrações com APIs e otimização SEO técnica.
+🎯 *Destaque:* Sistemas internos de agendamento autônomo, landing pages de alta conversão, integrações com APIs e otimização SEO técnica estrutural.
 <br clear="left"/>
 <br>
 
@@ -115,10 +115,18 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
   <img alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </p>
 
-#### 🎲 Banco de dados:
+#### 🎲 Banco de Dados & Estrutura:
 <p align="left">
   <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &nbsp;
-  <img alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> &nbsp;
+  <img alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</p>
+
+#### 📈 Web Analytics, SEO & BI:
+<p align="left">
+  <img alt="Google Analytics" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googleanalytics.svg"> &nbsp;
+  <img alt="Google Tag Manager" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googletagmanager.svg"> &nbsp;
+  <img alt="Metabase" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/metabase.svg">
 </p>
 
 #### 🔨 Ferramentas & Infraestrutura:
@@ -132,6 +140,11 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
   <img alt="GitLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"> &nbsp;
   <img alt="Netlify" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg">
 </p>
+
+#### 🧠 Metodologias & Práticas de Engenharia:
+* 🔄 **Metodologias Ágeis:** Scrum / Kanban
+* 🌿 **Controle de Versão Avançado:** GitFlow / Conventional Commits
+* 🧼 **Qualidade de Código:** Clean Code / Noções de Arquitetura Clean e Princípios SOLID
 
 ---
 
@@ -176,6 +189,8 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
 ---
 
 ## 💻 Projetos Atuais
+
+> 💡 *Abaixo estão alguns dos ecossistemas e aplicações que venho desenvolvendo, englobando portais de autoatendimento, automações de fluxos diários, utilitários de game dev e arquiteturas robustas de CRUD corporativo.*
 
 <p align="center">
   <a href="https://github.com/adrianojosez/adrianojosez" target="_blank">
