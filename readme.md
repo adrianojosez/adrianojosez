@@ -215,6 +215,14 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
   </a>
 </p>
 
+#### 🔍 Visão Geral & Desafios Técnicos Resolvidos:
+* 💼 **[Portal de Autoatendimento & CRUD Corporativo](https://github.com/adrianojosez/CRUD):** Ecossistema estruturado focado no fluxo operacional e regras de negócio escaláveis.
+  * *Desafio Prático:* Estabelecer uma arquitetura modular com controle estrito de concorrência e integridade de dados para mitigar conflitos em tempo real.
+* 🔐 **[Gateway de Licenciamento (License)](https://github.com/adrianojosez/license):** Microsserviço robusto projetado para o gerenciamento granular de acessos e ativações remotas.
+  * *Desafio Prático:* Implementação de camadas rígidas de criptografia ponta a ponta e gerenciamento seguro de sessões distribuídas.
+* 🎮 **[Game Dev Utilities (gamedev)](https://github.com/adrianojosez/gamedev):** Conjunto de ferramentas e scripts otimizados para lógica interna e motores de jogos.
+  * *Desafio Prático:* Refinamento matemático e gerenciamento estrito de memória para manter a máxima performance de execução do ecossistema.
+
 ### 🔮 Próximos Desafios de Engenharia:
 *   🏗️ **Arquitetura de Microserviços para E-commerce:** Design escalável focado em resiliência, mensageria distribuída e alta disponibilidade.
 *   📊 **Dashboard Analítico com Server-Side Rendering (SSR):** Painel de performance e BI com renderização otimizada para carregamento instantâneo.
