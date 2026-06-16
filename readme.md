@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=32&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Adriano+José;Tenho+23+anos;Sou+do+Brasil;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=32&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Adriano+José;Desenvolvedor+Full+Stack;Focado+em+Performance,+SEO+e+Analytics;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,10 +20,10 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Aqui você encontrará um desenvolvedor focado em construir soluções eficientes, otimizadas e elegantes, unindo o melhor das engenharias de Front-end, Back-end e estratégias de posicionamento digital.
+Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas robustos, escaláveis e de alta performance. Meu grande diferencial de mercado está na sólida convergência entre engenharia de código e inteligência de dados: implemento arquiteturas de ponta a ponta (Front-end e Back-end) integradas a estratégias avançadas de **SEO Técnico, Web Analytics (GA4 e GTM) e Business Intelligence (Metabase)**, transformando desempenho técnico em resultados reais de conversão e negócios.
 
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas na [Fatec Baixada Santista](https://fatecrl.edu.br).
-* 🧠 **Evolução Continua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
+* 🧠 **Evolução Contínua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
 * 🏋️ **Mente & Corpo:** Musculação e treinos físicos fazem parte da minha rotina diária para manter o equilíbrio e o foco.
 * 📚 **Desenvolvimento Pessoal:** Adquirindo cada vez mais o hábito da leitura, focado em engenharia de software e evolução pessoal.
 * 🎮 **Gaming:** Apaixonado por jogos — desde a nostalgia marcante dos clássicos retrô até os competitivos modernos.
@@ -155,59 +155,47 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
 
 ---
 
-### ### 🔭 Pretendo estudar no futuro:
-
-<p align="left">
-  <img alt="Vue.js" title="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp;
-  <img alt="Next.js" title="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> &nbsp;
-  <img alt="Electron" title="Electron" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"> &nbsp;
-  <img alt="Express" title="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> &nbsp;
-  <img alt="WordPress" title="WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"> &nbsp;
-  <img alt="AWS" title="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"> &nbsp;
-  <img alt="Lua" title="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
-  <img alt="Python" title="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
-  <img alt="PostgreSQL" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
-  <img alt="Tailwind CSS" title="Tailwind CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
-  <img alt="Unity" title="Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-</p>
+<details>
+  <summary><b>🔭 Pretendo estudar no futuro: (Expandir)</b></summary>
+  <br>
+  <p align="left">
+    <img alt="Vue.js" title="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp;
+    <img alt="Next.js" title="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> &nbsp;
+    <img alt="Electron" title="Electron" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"> &nbsp;
+    <img alt="Express" title="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> &nbsp;
+    <img alt="WordPress" title="WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"> &nbsp;
+    <img alt="AWS" title="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"> &nbsp;
+    <img alt="Lua" title="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
+    <img alt="Python" title="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
+    <img alt="PostgreSQL" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
+    <img alt="Tailwind CSS" title="Tailwind CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
+    <img alt="Unity" title="Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  </p>
+</details>
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianojosez&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Métricas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianojosez&show_icons=true&count_private=true&hide_border=true&bg_color=00101f&title_color=ffffff&text_color=ffffff&icon_color=0078D4" alt="Métricas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&hide_border=true&bg_color=00101f&title_color=ffffff&text_color=ffffff&icon_color=0078D4" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
 
 ## 💻 Projetos Atuais
 
-> 💡 *Abaixo estão alguns dos ecossistemas e aplicações que venho desenvolvendo, englobando portais de autoatendimento, automações de fluxos diários, utilitários de game dev e arquiteturas robustas de CRUD corporativo.*
+> 💡 *Abaixo estão os principais ecossistemas e aplicações que venho desenvolvendo, mapeados de forma limpa para priorizar a velocidade de carregamento e legibilidade do perfil.*
 
-<p align="center">
-  <a href="https://github.com/adrianojosez/adrianojosez" target="_blank">
-    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=adrianojosez&theme=react&bg_color=0D1117" alt="Repositório Principal">
-  </a>
-  <a href="https://github.com/adrianojosez/CRUD" target="_blank">
-    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=CRUD&theme=react&bg_color=0D1117" alt="Repositório CRUD">
-  </a>
-  <a href="https://github.com/adrianojosez/gamedev" target="_blank">
-    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=gamedev&theme=react&bg_color=0D1117" alt="Repositório Game Dev">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/adrianojosez/license" target="_blank">
-    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=license&theme=react&bg_color=0D1117" alt="Repositório Licença">
-  </a>
-  <a href="https://github.com/adrianojosez/readme" target="_blank">
-    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=readme&theme=react&bg_color=0D1117" alt="Repositório Readme">
-  </a>
-  <a href="https://github.com/adrianojosez/Diario" target="_blank">
-    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=Diario&theme=react&bg_color=0D1117" alt="Repositório Diário">
-  </a>
-</p>
+| Projeto | Descrição / Objetivo | Stack Principal | Código-Fonte |
+| :--- | :--- | :--- | :---: |
+| **💼 Portal / CRUD** | Ecossistema focado no fluxo operacional e regras de negócio corporativas. | `Node.js`, `Express`, `React` | [Acessar ↗](https://github.com/adrianojosez/CRUD) |
+| **🔐 License** | Microsserviço projetado para gerenciamento granular de acessos remotos. | `Node.js`, `Security`, `API` | [Acessar ↗](https://github.com/adrianojosez/license) |
+| **🎮 Game Dev** | Ferramentas e scripts focados na otimização lógica interna de jogos. | `C#`, `Math`, `Algorithms` | [Acessar ↗](https://github.com/adrianojosez/gamedev) |
+| **📖 Diário** | Sistema focado no registro dinâmico e automação de fluxos diários. | `JavaScript`, `CSS`, `Storage` | [Acessar ↗](https://github.com/adrianojosez/Diario) |
+| **🛠️ Readme** | Repositório estrutural para a gerência visual do portfólio de perfil. | `Markdown`, `HTML`, `Design` | [Acessar ↗](https://github.com/adrianojosez/readme) |
+| **🧑🏻‍💻 Principal** | Hub central de dados e configurações do meu ecossistema pessoal de desenvolvimento. | `Config`, `Documentation` | [Acessar ↗](https://github.com/adrianojosez/adrianojosez) |
 
 #### 🔍 Visão Geral & Desafios Técnicos Resolvidos:
 * 💼 **[Portal de Autoatendimento & CRUD Corporativo](https://github.com/adrianojosez/CRUD):** Ecossistema estruturado focado no fluxo operacional e regras de negócio escaláveis.
