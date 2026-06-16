@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/English_Version-Switch_to_EN-00101f?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version" />
+  </a>
+</p>
+
 ---
 
 ## 👨🏻‍💻 Sobre Mim
@@ -28,27 +34,21 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
 ## 💼 Experiência Profissional
 
 [<img align="left" height="95px" width="95px" alt="logo mega imagem" src="https://i.ibb.co/r2x9M5CB/logo-mega-imagem-k-Yq-Tgv.png"/>](https://megaimagem.com.br)
-**Desenvolvedor Front End com foco em SEO**  
-🚀 **[Mega Imagem](https://megaimagem.com.br)** • *Efetivo (CLT)*  
-📅 Janeiro 2025 – Atualmente  
+**Desenvolvedor Front End com foco em SEO** 🚀 **[Mega Imagem](https://megaimagem.com.br)** • *Efetivo (CLT)* 📅 Janeiro 2025 – Atualmente  
 🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `Next.js`, `Node.js`, `SQL`  
 🎯 *Destaque:* Sistemas internos de agendamento autônomo, landing pages de alta conversão, integrações com APIs e otimização SEO técnica estrutural.
 <br clear="left"/>
 <br>
 
 [<img align="left" height="95px" width="95px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br)
-**Desenvolvedor Full Stack**  
-🧑🏻‍💻 **[ModalGR](https://www.modalgr.com.br)** • *Estágio*  
-📅 Agosto 2023 – Janeiro 2024  
+**Desenvolvedor Full Stack** 🧑🏻‍💻 **[ModalGR](https://www.modalgr.com.br)** • *Estágio* 📅 Agosto 2023 – Janeiro 2024  
 🛠️ *Tecnologias:* `Node.js`, `.NET`, `C#`, `SQL Server`  
 🎯 *Destaque:* Atuação no desenvolvimento, evolução e refatoração do produto corporativo [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
 <br clear="left"/>
 <br>
 
 [<img align="left" height="95px" width="95px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br)
-**Desenvolvedor Front-End**  
-💻 **[ModalGR](https://www.modalgr.com.br)** • *Estágio*  
-📅 Março 2022 – Julho 2023  
+**Desenvolvedor Front-End** 💻 **[ModalGR](https://www.modalgr.com.br)** • *Estágio* 📅 Março 2022 – Julho 2023  
 🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`  
 🎯 *Destaque:* Construção de interfaces responsivas e ricas em usabilidade para a plataforma [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
 <br clear="left"/>
@@ -59,25 +59,19 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
 ## 🎓 Formação Acadêmica
 
 [<img align="left" height="95px" width="95px" alt="logofatecrl" src="https://i.ibb.co/FYR5CVX/fatecrl.png"/>](https://fatecrl.edu.br/)
-**Análise e Desenvolvimento de Sistemas**  
-🎓 **[Fatec Baixada Santista - Rubens Lara](https://fatecrl.edu.br/)** • *Graduação*  
-📅 Fevereiro 2022 - Dezembro 2024  
+**Análise e Desenvolvimento de Sistemas** 🎓 **[Fatec Baixada Santista - Rubens Lara](https://fatecrl.edu.br/)** • *Graduação* 📅 Fevereiro 2022 - Dezembro 2024  
 🛠️ *Foco principal:* `C`, Estruturas de Dados e Engenharia de Software.
 <br clear="left"/>
 <br>
 
 [<img align="left" height="95px" width="95px" alt="logoetecdraruthcardoso" src="https://i.ibb.co/x214WJD/etec.jpg"/>](https://etecdrc.com.br/)
-**Técnico em Desenvolvimento de Sistemas**  
-🏫 **[Etec Drª. Ruth Cardoso](https://etecdrc.com.br/)** • *Ensino Técnico*  
-📅 Agosto 2020 - Dezembro 2021  
+**Técnico em Desenvolvimento de Sistemas** 🏫 **[Etec Drª. Ruth Cardoso](https://etecdrc.com.br/)** • *Ensino Técnico* 📅 Agosto 2020 - Dezembro 2021  
 🛠️ *Foco principal:* `C#`, Lógica de Programação e Banco de Dados Relacional.
 <br clear="left"/>
 <br>
 
 [<img align="left" height="95px" width="95px" alt="logoalura" src="https://i.ibb.co/M5FxTs2/alura.jpg"/>](https://www.alura.com.br/)
-**Formação complementar em Programação**  
-🚀 **[Alura](https://www.alura.com.br/)** • *Cursos de Extensão*  
-📅 Março 2022 - Março 2024  
+**Formação complementar em Programação** 🚀 **[Alura](https://www.alura.com.br/)** • *Cursos de Extensão* 📅 Março 2022 - Março 2024  
 🛠️ *Foco principal:* Ecossistema `JavaScript` e práticas avançadas de Front-end.
 <br clear="left"/>
 <br>
@@ -208,7 +202,7 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
     <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=license&theme=react&bg_color=0D1117" alt="Repositório Licença">
   </a>
   <a href="https://github.com/adrianojosez/readme" target="_blank">
-    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=readme&theme=react&bg_color=0D1117" alt="Repositório Readme">
+    <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=readme&theme=react&bg_color=0D1117" alt="Repositório Readme">
   </a>
   <a href="https://github.com/adrianojosez/Diario" target="_blank">
     <img height="125em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adrianojosez&repo=Diario&theme=react&bg_color=0D1117" alt="Repositório Diário">
@@ -224,11 +218,11 @@ Aqui você encontrará um desenvolvedor focado em construir soluções eficiente
   * *Desafio Prático:* Refinamento matemático e gerenciamento estrito de memória para manter a máxima performance de execução do ecossistema.
 
 ### 🔮 Próximos Desafios de Engenharia:
-*   🏗️ **Arquitetura de Microserviços para E-commerce:** Design escalável focado em resiliência, mensageria distribuída e alta disponibilidade.
-*   📊 **Dashboard Analítico com Server-Side Rendering (SSR):** Painel de performance e BI com renderização otimizada para carregamento instantâneo.
-*   🤖 **Bot de Automação Omnichannel:** Sistema distribuído integrado a APIs de mensageria para automação inteligente de processos.
-*   🔐 **Gateway de Licenciamento & Controle de Acesso:** Implementação focada em segurança, criptografia e gerenciamento de sessões distribuídas.
-*   📈 **Aplicações Web Otimizadas para Core Web Vitals:** Engenharia de performance refinada com foco no limite técnico de velocidade e SEO arquitetural.
+* 🏗️ **Arquitetura de Microserviços para E-commerce:** Design escalável focado em resiliência, mensageria distribuída e alta disponibilidade.
+* 📊 **Dashboard Analítico com Server-Side Rendering (SSR):** Painel de performance e BI com renderização otimizada para carregamento instantâneo.
+* 🤖 **Bot de Automação Omnichannel:** Sistema distribuído integrado a APIs de mensageria para automação inteligente de processos.
+* 🔐 **Gateway de Licenciamento & Controle de Acesso:** Implementação focada em segurança, criptografia e gerenciamento de sessões distribuídas.
+* 📈 **Aplicações Web Otimizadas para Core Web Vitals:** Engenharia de performance refinada com foco no limite técnico de velocidade e SEO arquitetural.
 
 ---
 
