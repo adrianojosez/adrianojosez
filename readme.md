@@ -4,11 +4,11 @@
   Olá, sou <a href="https://adrianojosedev.netlify.app/">Adriano José</a> | 👨🏻‍💻 Full Stack Developer
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=32&center=true&vCenter=true&width=1000&lines=Olá!;+Meu+nome+é+Adriano+José;Desenvolvedor+Full+Stack;Focado+em+Performance,+SEO+e+Analytics;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+🚀" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="./README.en.md">
@@ -53,6 +53,8 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 🎯 *Destaque:* Construção de interfaces responsivas e ricas em usabilidade para a plataforma [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
 <br clear="left"/>
 <br>
+
+> 💡 Encontre-me no [LinkedIn](https://www.linkedin.com/in/adrianojosez/) Para conferir qualificações, portfólio completo e as credenciais que validam minha trajetória profissional
 
 ---
 
