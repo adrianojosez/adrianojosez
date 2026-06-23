@@ -23,18 +23,18 @@
 Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas robustos, escaláveis e de alta performance. Meu grande diferencial de mercado está na sólida convergência entre engenharia de código e inteligência de dados: implemento arquiteturas de ponta a ponta (Front-end e Back-end) integradas a estratégias avançadas de **SEO Técnico, Web Analytics (GA4 e GTM) e Business Intelligence (Metabase)**, transformando desempenho técnico em resultados reais de conversão e negócios.
 
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas na [Fatec Baixada Santista](https://fatecrl.edu.br).
-* 🧠 **Evolução Contínua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
+<!-- * 🧠 **Evolução Contínua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
 * 🏋️ **Mente & Corpo:** Musculação e treinos físicos fazem parte da minha rotina diária para manter o equilíbrio e o foco.
 * 📚 **Desenvolvimento Pessoal:** Adquirindo cada vez mais o hábito da leitura, focado em engenharia de software e evolução pessoal.
 * 🎮 **Gaming:** Apaixonado por jogos — desde a nostalgia marcante dos clássicos retrô até os competitivos modernos.
-* 🎞️ **Cinefilia:** Curto muito assistir a filmes, com forte preferência por ação, suspense e ficção científica.
+* 🎞️ **Cinefilia:** Curto muito assistir a filmes, com forte preferência por ação, suspense e ficção científica. -->
 
 ---
 
 ## 💼 Experiência Profissional
 
 [<img align="left" height="95px" width="95px" alt="logo mega imagem" src="https://i.ibb.co/r2x9M5CB/logo-mega-imagem-k-Yq-Tgv.png"/>](https://megaimagem.com.br)
-**Desenvolvedor Front End com foco em SEO** 🚀 **[Mega Imagem](https://megaimagem.com.br)** • *Efetivo (CLT)* 📅 Janeiro 2025 – Atualmente  
+**Desenvolvedor Front End com foco em SEO** 🚀 **[Mega Imagem](https://megaimagem.com.br)** • *Efetivo (PJ)* 📅 Janeiro 2025 – Atualmente  
 🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `Next.js`, `Node.js`, `SQL`  
 🎯 *Destaque:* Sistemas internos de agendamento autônomo, landing pages de alta conversão, integrações com APIs e otimização SEO técnica estrutural.
 <br clear="left"/>
