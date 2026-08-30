@@ -180,8 +180,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianojosez&show_icons=true&count_private=true&hide_border=true&bg_color=00101f&title_color=ffffff&text_color=ffffff&icon_color=0078D4" alt="Métricas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianojosez&layout=compact&langs_count=8&hide_border=true&bg_color=00101f&title_color=ffffff&text_color=ffffff&icon_color=0078D4" alt="Linguagens mais utilizadas"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianojosez&theme=dark&hide_border=true&background=00101f&stroke=0078D4&sideLabels=ffffff" alt="GitHub Streak"/>
 </p>
 
 ---
