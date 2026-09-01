@@ -10,7 +10,7 @@
   </a>
 </p> -->
 
-[![English Version](https://img.shields.io/badge/English_Version-Switch_to_EN-00101f?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.en.md)
+[![English Version](https://img.shields.io/badge/English_Version-Switch_to_EN-00101f?style=for-the-badge&logo=googletranslate&logoColor=white)](https://github.com/adrianojosez/adrianojosez/blob/main/README.en.md)
 
 ---
 
