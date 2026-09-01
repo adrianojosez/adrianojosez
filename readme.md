@@ -10,11 +10,7 @@
   </a>
 </p> -->
 
-<p align="center">
-  <a href="https://github.com/adrianojosez/adrianojosez/blob/main/README.en.md">
-    <img src="https://img.shields.io/badge/English_Version-Switch_to_EN-00101f?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version" />
-  </a>
-</p>
+[![English Version](https://img.shields.io/badge/English_Version-Switch_to_EN-00101f?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.en.md)
 
 ---
 
