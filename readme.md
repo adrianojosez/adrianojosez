@@ -22,6 +22,7 @@
 
 Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas robustos, escaláveis e de alta performance. Meu grande diferencial de mercado está na sólida convergência entre engenharia de código e inteligência de dados: implemento arquiteturas de ponta a ponta (Front-end e Back-end) integradas a estratégias avançadas de **SEO Técnico, Web Analytics (GA4 e GTM) e Business Intelligence (Metabase)**, transformando desempenho técnico em resultados reais de conversão e negócios.
 
+<!-- * 📚 **Cursando:** Pós graduação em _ na [_](_). -->
 * 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas na [Fatec Baixada Santista](https://fatecrl.edu.br).
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas na [Etec Doutora Ruth Cardoso](https://etecdrc.cps.sp.gov.br/).
 <!-- * 🧠 **Evolução Contínua:** Gosto de aprender coisas novas diariamente, expandindo constantemente meu leque tecnológico.
