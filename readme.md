@@ -42,15 +42,15 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 <br clear="left"/>
 <br>
 
-[<img align="left" height="95px" width="95px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br)
-**Desenvolvedor Full Stack** 🧑🏻‍💻 **[ModalGR](https://www.modalgr.com.br)** • *Estágio* 📅 Agosto 2023 – Janeiro 2024  
+[<img align="left" height="95px" width="95px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://mosten.com/)
+**Desenvolvedor Full Stack** 🧑🏻‍💻 **[Mosten](https://mosten.com/)** • *Estágio* 📅 Agosto 2023 – Janeiro 2024  
 🛠️ *Tecnologias:* `Node.js`, `.NET`, `C#`, `SQL Server`  
 🎯 *Destaque:* Atuação no desenvolvimento, evolução e refatoração do produto corporativo [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
 <br clear="left"/>
 <br>
 
-[<img align="left" height="95px" width="95px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br)
-**Desenvolvedor Front-End** 💻 **[ModalGR](https://www.modalgr.com.br)** • *Estágio* 📅 Março 2022 – Julho 2023  
+[<img align="left" height="95px" width="95px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://mosten.com/)
+**Desenvolvedor Front-End** 💻 **[Mosten](https://mosten.com/)** • *Estágio* 📅 Março 2022 – Julho 2023  
 🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`  
 🎯 *Destaque:* Construção de interfaces responsivas e ricas em usabilidade para a plataforma [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
 <br clear="left"/>
