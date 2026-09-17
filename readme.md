@@ -35,6 +35,13 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 ## 💼 Experiência Profissional
 
+[<img align="left" height="95px" width="95px" alt="logo nagata e gasparini" src="https://i.ibb.co/XZvNmh6r/images.jpg"/>](https://nagataegasparini.com.br)
+**Desenvolvedor Front End com foco em SEO** 🚀 **[Nagata & Gasparini](https://nagataegasparini.com.br)** • *Efetivo (PJ)* 📅 Janeiro 2025 – Atualmente  
+🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `Next.js`, `Node.js`, `SQL`  
+🎯 *Destaque:* Sistemas internos de agendamento autônomo, landing pages de alta conversão, integrações com APIs e otimização SEO técnica estrutural.
+<br clear="left"/>
+<br>
+
 [<img align="left" height="95px" width="95px" alt="logo mega imagem" src="https://i.ibb.co/r2x9M5CB/logo-mega-imagem-k-Yq-Tgv.png"/>](https://megaimagem.com.br)
 **Desenvolvedor Front End com foco em SEO** 🚀 **[Mega Imagem](https://megaimagem.com.br)** • *Efetivo (PJ)* 📅 Janeiro 2025 – Atualmente  
 🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `Next.js`, `Node.js`, `SQL`  
