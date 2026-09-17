@@ -193,12 +193,12 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 | Projeto | Descrição / Objetivo | Stack Principal | Código-Fonte |
 | :--- | :--- | :--- | :---: |
-| **💼 Portal / CRUD** | Ecossistema focado no fluxo operacional e regras de negócio corporativas. | `Node.js`, `Express`, `React` | [Acessar ↗](https://github.com/adrianojosez/CRUD) |
-| **🔐 License** | Microsserviço projetado para gerenciamento granular de acessos remotos. | `Node.js`, `Security`, `API` | [Acessar ↗](https://github.com/adrianojosez/license) |
-| **🎮 Game Dev** | Ferramentas e scripts focados na otimização lógica interna de jogos. | `C#`, `Math`, `Algorithms` | [Acessar ↗](https://github.com/adrianojosez/gamedev) |
-| **📖 Diário** | Sistema focado no registro dinâmico e automação de fluxos diários. | `JavaScript`, `CSS`, `Storage` | [Acessar ↗](https://github.com/adrianojosez/Diario) |
-| **🛠️ Readme** | Repositório estrutural para a gerência visual do portfólio de perfil. | `Markdown`, `HTML`, `Design` | [Acessar ↗](https://github.com/adrianojosez/readme) |
-| **🧑🏻‍💻 Principal** | Hub central de dados e configurações do meu ecossistema pessoal de desenvolvimento. | `Config`, `Documentation` | [Acessar ↗](https://github.com/adrianojosez/adrianojosez) |
+| **🛍️ Cyber Collect** | Plataforma de e-commerce desenvolvida para a marca Cyber-Collect. | `Node.js`, `Express`, `EJS` | [Acessar ↗](https://github.com/adrianojosez/cyber-collect-ecommerce) |
+| **📊 Analytics BI** | Dashboard em tempo real para monitoramento de métricas SaaS (MRR, Churn, LTV). | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Redis`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/analytics-bi-dashboard) |
+| **📋 Kanban CRM** | CRM em tempo real com drag-and-drop e atualizações otimistas. | `React`, `Node.js`, `Socket.io`, `PostgreSQL`, `Zustand`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/realtime-kanban-crm) |
+| **📅 Scheduling API** | API B2B de agendamento com controle de concorrência, RBAC, filas e Stripe. | `NestJS`, `Redis`, `Stripe`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/b2b-scheduling-api) |
+| **📱 Offline Mobile** | App mobile offline-first para gestão de tarefas e finanças com tratamento de conflitos. | `React Native`, `Expo`, `SQLite`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/offline-first-mobile-app) |
+| **📡 Telemetry Stack** | Stack de observabilidade distribuída com métricas RED, tracing e alertas de performance. | `OpenTelemetry`, `Prometheus`, `Grafana`, `Jaeger` | [Acessar ↗](https://github.com/adrianojosez/observability-telemetry-stack) |
 
 #### 🔍 Visão Geral & Desafios Técnicos Resolvidos:
 * 💼 **[Portal de Autoatendimento & CRUD Corporativo](https://github.com/adrianojosez/CRUD):** Ecossistema estruturado focado no fluxo operacional e regras de negócio escaláveis.
