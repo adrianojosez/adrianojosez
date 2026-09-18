@@ -49,7 +49,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 <br clear="left"/>
 <br>
 
-[<img align="left" height="95px" width="95px" alt="logomosten" src="https://i.ibb.co/ZRC09NLb/modalgr-square-Logo-1744742871189.webp"/>](https://mosten.com/)
+<!-- [<img align="left" height="95px" width="95px" alt="logomosten" src="https://i.ibb.co/ZRC09NLb/modalgr-square-Logo-1744742871189.webp"/>](https://mosten.com/)
 **Desenvolvedor Full Stack** 🧑🏻‍💻 **[Mosten](https://mosten.com/)** • *Efetivo* 📅 Agosto 2023 – Janeiro 2024  
 🛠️ *Tecnologias:* `Node.js`, `.NET`, `C#`, `SQL Server`  
 🎯 *Destaque:* Atuação no desenvolvimento, evolução e refatoração do produto corporativo [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
@@ -60,6 +60,19 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 **Desenvolvedor Front-End** 💻 **[Mosten](https://mosten.com/)** • *Estágio* 📅 Março 2022 – Julho 2023  
 🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`  
 🎯 *Destaque:* Construção de interfaces responsivas e ricas em usabilidade para a plataforma [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
+<br clear="left"/>
+<br>  -->
+
+[<img align="left" height="95px" width="95px" alt="logomosten" src="https://i.ibb.co/ZRC09NLb/modalgr-square-Logo-1744742871189.webp"/>](https://mosten.com/)
+🏢 **[Mosten](https://mosten.com/)** • 📅 Março 2022 – Janeiro 2024 *(1 ano e 11 meses)*
+
+**Desenvolvedor Full Stack** 🧑🏻‍💻 • *Efetivo* 📅 Agosto 2023 – Janeiro 2024  
+  🛠️ *Tecnologias:* `Node.js`, `.NET`, `C#`, `SQL Server`  
+  🎯 *Destaque:* Atuação no desenvolvimento, evolução e refatoração do produto corporativo [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
+
+**Desenvolvedor Front-End** 💻 • *Estágio* 📅 Março 2022 – Julho 2023  
+  🛠️ *Tecnologias:* `HTML`, `CSS`, `JS`, `TS`, `React`, `React Native`, `Angular`  
+  🎯 *Destaque:* Construção de interfaces responsivas e ricas em usabilidade para a plataforma [TimeKeeping](https://timekeeping-portal.modalgr.com.br).
 <br clear="left"/>
 <br>
 
