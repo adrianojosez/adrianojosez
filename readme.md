@@ -205,6 +205,8 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianojosez&theme=dark&hide_border=true&background=00101f&stroke=0078D4&sideLabels=ffffff" alt="GitHub Streak"/>
 </p>
 
+![Visualizações](https://komarev.com/ghpvc/?username=adrianojosez-github&color=blue&style=flat)
+
 ---
 
 ## 💻 Projetos Atuais
