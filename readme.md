@@ -84,19 +84,19 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 [<img align="left" height="95px" width="95px" alt="logofatecrl" src="https://i.ibb.co/FYR5CVX/fatecrl.png"/>](https://fatecrl.edu.br/)
 **Análise e Desenvolvimento de Sistemas** 🎓 **[Fatec Baixada Santista - Rubens Lara](https://fatecrl.edu.br/)** • *Graduação* 📅 Fevereiro 2022 - Dezembro 2024  
-🛠️ *Foco principal:* `C`, Estruturas de Dados e Engenharia de Software.
+🛠️ *Foco principal:* Arquitetura de Software, Engenharia de Software, Estruturas de Dados, Métodos Ágeis (`Scrum`, `Kanban`), Bancos de Dados Relacionais e Não-Relacionais (`SQL`, `NoSQL`), Desenvolvimento Web e Gestão de Projetos.
 <br clear="left"/>
 <br>
 
 [<img align="left" height="95px" width="95px" alt="logoetecdraruthcardoso" src="https://i.ibb.co/x214WJD/etec.jpg"/>](https://etecdrc.com.br/)
 **Técnico em Desenvolvimento de Sistemas** 🏫 **[Etec Drª. Ruth Cardoso](https://etecdrc.com.br/)** • *Ensino Técnico* 📅 Agosto 2020 - Dezembro 2021  
-🛠️ *Foco principal:* `C#`, Lógica de Programação e Banco de Dados Relacional.
+🛠️ *Foco principal:* Lógica de Programação Avançada, Algoritmos, Desenvolvimento Orientado a Objetos (`C#`, `.NET`), Modelagem de Dados, `SQL` e Fundamentos de Interfaces Web (`HTML5`, `CSS3`).
 <br clear="left"/>
 <br>
 
 [<img align="left" height="95px" width="95px" alt="logoalura" src="https://i.ibb.co/M5FxTs2/alura.jpg"/>](https://www.alura.com.br/)
 **Formação complementar em Programação** 🚀 **[Alura](https://www.alura.com.br/)** • *Cursos de Extensão* 📅 Março 2022 - Março 2024  
-🛠️ *Foco principal:* Ecossistema `JavaScript` e práticas avançadas de Front-end.
+🛠️ *Foco principal:* Ecossistema `JavaScript` (`TypeScript`, `React`, `Next.js`, `Node.js`), Performance Web, Componentização, Consumo de APIs RESTful e Testes Automatizados.
 <br clear="left"/>
 <br>
 
