@@ -221,6 +221,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 | **📅 Scheduling API** | API B2B de agendamento com controle de concorrência, RBAC, filas e Stripe. | `NestJS`, `Redis`, `Stripe`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/b2b-scheduling-api) |
 | **📱 Offline Mobile** | App mobile offline-first para gestão de tarefas e finanças com tratamento de conflitos. | `React Native`, `Expo`, `SQLite`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/offline-first-mobile-app) |
 | **📡 Telemetry Stack** | Stack de observabilidade distribuída com métricas RED, tracing e alertas de performance. | `OpenTelemetry`, `Prometheus`, `Grafana`, `Jaeger` | [Acessar ↗](https://github.com/adrianojosez/observability-telemetry-stack) |
+| **📸 Feed Approve** | Sistema para gestão, esteira de produção e aprovação visual de feeds do Instagram por clientes. | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/feed-approve) |
 
 #### 🔍 Visão Geral & Desafios Técnicos Resolvidos:
 * 💼 **[Portal de Autoatendimento & CRUD Corporativo](https://github.com/adrianojosez/CRUD):** Ecossistema estruturado focado no fluxo operacional e regras de negócio escaláveis.
