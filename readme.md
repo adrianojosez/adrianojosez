@@ -199,6 +199,53 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 ---
 
+## 📚 Leituras Técnicas & Referências
+
+> 💡 *Aprofundamento contínuo em arquitetura de software, algoritmos e experiência de produto para construir soluções eficientes, legíveis e focadas em valor.*
+
+<p align="left">
+  <a href="https://www.amazon.com.br/dp/8575225634">
+    <img src="https://img.shields.io/badge/Lendo-Entendendo_Algoritmos-0078D4?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Entendendo Algoritmos" />
+  </a>
+  <a href="https://www.amazon.com.br/dp/8576082675">
+    <img src="https://img.shields.io/badge/Lendo-C%C3%B3digo_Limpo-0078D4?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Código Limpo" />
+  </a>
+  <a href="https://www.amazon.com.br/dp/8575227319">
+    <img src="https://img.shields.io/badge/Lendo-Storytelling_no_Design_de_Produto-0078D4?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Storytelling no Design de Produto" />
+  </a>
+</p>
+
+[<img align="left" height="135px" width="95px" alt="Capa Entendendo Algoritmos" src="https://i.ibb.co/YFSM2mnX/71-Vkg7-Gf-PFL-AC-UF1000-1000-QL80.jpg"/>](https://www.amazon.com.br/dp/8575225634)
+**📘 Entendendo Algoritmos** • *Aditya Y. Bhargava*  
+🛠️ *Foco Principal:* Estrutura de dados, análise de complexidade (`O(n)`), algoritmos em grafos, pesquisa binária e otimização lógica.  
+🎯 *Aplicação:* Construção de rotinas computacionais mais performáticas e resolução eficiente de problemas de engenharia.
+<br clear="left"/>
+<br>
+
+[<img align="left" height="135px" width="95px" alt="Capa Código Limpo" src="https://i.ibb.co/FLXhmV0T/71-Qkn-S5f-W4-L.jpg"/>](https://www.amazon.com.br/dp/8576082675)
+**🧼 Código Limpo (Clean Code)** • *Robert C. Martin (Uncle Bob)*  
+🛠️ *Foco Principal:* Princípios SOLID, refatoração de código legado, funções coesas, tratamento de erros e testes unitários.  
+🎯 *Aplicação:* Escrita de sistemas sustentáveis, legíveis e de fácil manutenção no dia a dia do desenvolvimento.
+<br clear="left"/>
+<br>
+
+[<img align="left" height="135px" width="95px" alt="Capa Storytelling no Design de Produto" src="https://i.ibb.co/Nn6CYxqN/61-Xps-XTov-HL-AC-UF1000-1000-QL80-1.jpg"/>](https://www.amazon.com.br/dp/8575227319)
+**🎨 Storytelling no Design de Produto** • *Sarah Doody*  
+🛠️ *Foco Principal:* Mapeamento da jornada do usuário, UX/UI centrado na resolução de dores e comunicação clara de produto.  
+🎯 *Aplicação:* Integração da visão de produto à engenharia para entregar interfaces mais intuitivas e focadas em conversão.
+<br clear="left"/>
+<br>
+
+| Livro | Status | Tópicos-Chave |
+| :--- | :---: | :--- |
+| **📘 Entendendo Algoritmos** | 📖 Lendo | Grafos, Ordenação, Programação Dinâmica, `O(n)` |
+| **🧼 Código Limpo** | 📖 Lendo | SOLID, Refatoração, Funções Coesas, Testes |
+| **🎨 Storytelling no Design de Produto** | 📖 Lendo | UX/UI, Jornada do Usuário, Visão de Produto |
+
+---
+
+---
+
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
