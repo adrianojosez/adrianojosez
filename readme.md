@@ -203,7 +203,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 > 💡 *Aprofundamento contínuo em arquitetura de software, algoritmos e experiência de produto para construir soluções eficientes, legíveis e focadas em valor.*
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.amazon.com.br/dp/8575225634">
     <img src="https://img.shields.io/badge/Lendo-Entendendo_Algoritmos-0078D4?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Entendendo Algoritmos" />
   </a>
@@ -213,7 +213,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
   <a href="https://www.amazon.com.br/dp/8575227319">
     <img src="https://img.shields.io/badge/Lendo-Storytelling_no_Design_de_Produto-0078D4?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Storytelling no Design de Produto" />
   </a>
-</p>
+</p> -->
 
 [<img align="left" height="135px" width="95px" alt="Capa Entendendo Algoritmos" src="https://i.ibb.co/YFSM2mnX/71-Vkg7-Gf-PFL-AC-UF1000-1000-QL80.jpg"/>](https://www.amazon.com.br/dp/8575225634)
 **📘 Entendendo Algoritmos** • *Aditya Y. Bhargava*  
