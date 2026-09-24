@@ -215,6 +215,8 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
   </a>
 </p> -->
 
+<!-- https://i.ibb.co/96zyhYx/capa-ampliada-9788575222485.jpg -->
+
 [<img align="left" height="135px" width="95px" alt="Capa Entendendo Algoritmos" src="https://i.ibb.co/YFSM2mnX/71-Vkg7-Gf-PFL-AC-UF1000-1000-QL80.jpg"/>](https://www.amazon.com.br/dp/8575225634)
 **📘 Entendendo Algoritmos** • *Aditya Y. Bhargava*  
 
