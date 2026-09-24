@@ -203,6 +203,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 > 💡 *Aprofundamento contínuo em arquitetura de software, algoritmos e experiência de produto para construir soluções eficientes, legíveis e focadas em valor.*
 
+<br>
 <!-- <p align="left">
   <a href="https://www.amazon.com.br/dp/8575225634">
     <img src="https://img.shields.io/badge/Lendo-Entendendo_Algoritmos-0078D4?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Entendendo Algoritmos" />
@@ -215,9 +216,15 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
   </a>
 </p> -->
 
-<!-- https://i.ibb.co/96zyhYx/capa-ampliada-9788575222485.jpg -->
+[<img align="left" height="180px" width="125px" alt="Capa JavaScript - Guia do Programador" src="https://i.ibb.co/96zyhYx/capa-ampliada-9788575222485.jpg"/>](https://www.amazon.com.br/dp/8575222481)
+**⚡ JavaScript - Guia do Programador** • *Maurício Samy Silva*  
 
-[<img align="left" height="135px" width="95px" alt="Capa Entendendo Algoritmos" src="https://i.ibb.co/YFSM2mnX/71-Vkg7-Gf-PFL-AC-UF1000-1000-QL80.jpg"/>](https://www.amazon.com.br/dp/8575225634)
+🛠️ *Foco Principal:* Sintaxe essencial, manipulação do DOM, orientação a objetos, eventos e APIs do navegador.  
+🎯 *Aplicação:* Construção de aplicações web dinâmicas, modernas e interativas no front-end.
+<br clear="left"/>
+<br>
+
+[<img align="left" height="180px" width="125px" alt="Capa Entendendo Algoritmos" src="https://i.ibb.co/YFSM2mnX/71-Vkg7-Gf-PFL-AC-UF1000-1000-QL80.jpg"/>](https://www.amazon.com.br/dp/8575225634)
 **📘 Entendendo Algoritmos** • *Aditya Y. Bhargava*  
 
 🛠️ *Foco Principal:* Estrutura de dados, análise de complexidade (`O(n)`), algoritmos em grafos, pesquisa binária e otimização lógica.  
@@ -225,7 +232,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 <br clear="left"/>
 <br>
 
-[<img align="left" height="135px" width="95px" alt="Capa Código Limpo" src="https://i.ibb.co/FLXhmV0T/71-Qkn-S5f-W4-L.jpg"/>](https://www.amazon.com.br/dp/8576082675)
+[<img align="left" height="180px" width="125px" alt="Capa Código Limpo" src="https://i.ibb.co/FLXhmV0T/71-Qkn-S5f-W4-L.jpg"/>](https://www.amazon.com.br/dp/8576082675)
 **🧼 Código Limpo (Clean Code)** • *Robert C. Martin (Uncle Bob)*  
 
 🛠️ *Foco Principal:* Princípios SOLID, refatoração de código legado, funções coesas, tratamento de erros e testes unitários.  
@@ -233,7 +240,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 <br clear="left"/>
 <br>
 
-[<img align="left" height="135px" width="95px" alt="Capa Storytelling no Design de Produto" src="https://i.ibb.co/Nn6CYxqN/61-Xps-XTov-HL-AC-UF1000-1000-QL80-1.jpg"/>](https://www.amazon.com.br/dp/8575227319)
+[<img align="left" height="180px" width="125px" alt="Capa Storytelling no Design de Produto" src="https://i.ibb.co/Nn6CYxqN/61-Xps-XTov-HL-AC-UF1000-1000-QL80-1.jpg"/>](https://www.amazon.com.br/dp/8575227319)
 **🎨 Storytelling no Design de Produto** • *Sarah Doody*  
 
 🛠️ *Foco Principal:* Mapeamento da jornada do usuário, UX/UI centrado na resolução de dores e comunicação clara de produto.  
@@ -243,6 +250,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 | Livro | Status | Tópicos-Chave |
 | :--- | :---: | :--- |
+| **⚡ JavaScript - Guia do Programador** | 📗 Lido | Manipulação do DOM, ES6+, Eventos, POO |
 | **📘 Entendendo Algoritmos** | 📖 Lendo | Grafos, Ordenação, Programação Dinâmica, `O(n)` |
 | **🧼 Código Limpo** | 📚 Próxima leitura | SOLID, Refatoração, Funções Coesas, Testes |
 | **🎨 Storytelling no Design de Produto** | 📚 Próxima leitura | UX/UI, Jornada do Usuário, Visão de Produto |
