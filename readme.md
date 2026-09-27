@@ -248,12 +248,12 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 <br clear="left"/>
 <br>
 
-| Livro | Status | Tópicos-Chave |
-| :--- | :---: | :--- |
-| **⚡ JavaScript - Guia do Programador** | 📗 Lido | Manipulação do DOM, ES6+, Eventos, POO |
-| **📘 Entendendo Algoritmos** | 📖 Lendo | Grafos, Ordenação, Programação Dinâmica, `O(n)` |
-| **🧼 Código Limpo** | 📚 Próxima leitura | SOLID, Refatoração, Funções Coesas, Testes |
-| **🎨 Storytelling no Design de Produto** | 📚 Próxima leitura | UX/UI, Jornada do Usuário, Visão de Produto |
+| Livro | Status | Página | Tópicos-Chave |
+| :--- | :---: | :---: | :--- |
+| **⚡ JavaScript - Guia do Programador** | 📗 Lido | 602/602 | Manipulação do DOM, ES6+, Eventos, POO |
+| **📘 Entendendo Algoritmos** | 📖 Lendo | 10/264 | Grafos, Ordenação, Programação Dinâmica, `O(n)` |
+| **🧼 Código Limpo** | 📚 Próxima leitura | 0/423 | SOLID, Refatoração, Funções Coesas, Testes |
+| **🎨 Storytelling no Design de Produto** | 📚 Próxima leitura | 0/384 | UX/UI, Jornada do Usuário, Visão de Produto |
 
 ---
 
