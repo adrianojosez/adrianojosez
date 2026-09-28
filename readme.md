@@ -271,15 +271,15 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 > 💡 *Abaixo estão os principais ecossistemas e aplicações que venho desenvolvendo, mapeados de forma limpa para priorizar a velocidade de carregamento e legibilidade do perfil.*
 
-| Projeto | Descrição / Objetivo | Stack Principal | Código-Fonte |
-| :--- | :--- | :--- | :---: |
-| **🛍️ Cyber Collect** | Plataforma de e-commerce desenvolvida para a marca Cyber-Collect. | `Node.js`, `Express`, `EJS` | [Acessar ↗](https://github.com/adrianojosez/cyber-collect-ecommerce) |
-| **📊 Analytics BI** | Dashboard em tempo real para monitoramento de métricas SaaS (MRR, Churn, LTV). | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Redis`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/analytics-bi-dashboard) |
-| **📋 Kanban CRM** | CRM em tempo real com drag-and-drop e atualizações otimistas. | `React`, `Node.js`, `Socket.io`, `PostgreSQL`, `Zustand`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/realtime-kanban-crm) |
-| **📅 Scheduling API** | API B2B de agendamento com controle de concorrência, RBAC, filas e Stripe. | `NestJS`, `Redis`, `Stripe`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/b2b-scheduling-api) |
-| **📱 Offline Mobile** | App mobile offline-first para gestão de tarefas e finanças com tratamento de conflitos. | `React Native`, `Expo`, `SQLite`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/offline-first-mobile-app) |
-| **📡 Telemetry Stack** | Stack de observabilidade distribuída com métricas RED, tracing e alertas de performance. | `OpenTelemetry`, `Prometheus`, `Grafana`, `Jaeger` | [Acessar ↗](https://github.com/adrianojosez/observability-telemetry-stack) |
-| **📸 Feed Approve** | Sistema para gestão, esteira de produção e aprovação visual de feeds do Instagram por clientes. | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/feed-approve) |
+| Projeto | Descrição / Objetivo | Stack Principal | Código | Demonstração |
+| :--- | :--- | :--- | :---: | :---: |
+| **🛍️ Cyber Collect** | Plataforma de e-commerce desenvolvida para a marca Cyber-Collect. | `Node.js`, `Express`, `EJS` | [Acessar ↗](https://github.com/adrianojosez/cyber-collect-ecommerce) | [Acessar ↗]( ) |
+| **📊 Analytics BI** | Dashboard em tempo real para monitoramento de métricas SaaS (MRR, Churn, LTV). | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Redis`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/analytics-bi-dashboard) | [Acessar ↗]( ) |
+| **📋 Kanban CRM** | CRM em tempo real com drag-and-drop e atualizações otimistas. | `React`, `Node.js`, `Socket.io`, `PostgreSQL`, `Zustand`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/realtime-kanban-crm) | [Acessar ↗]( ) |
+| **📅 Scheduling API** | API B2B de agendamento com controle de concorrência, RBAC, filas e Stripe. | `NestJS`, `Redis`, `Stripe`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/b2b-scheduling-api) | [Acessar ↗]( ) |
+| **📱 Offline Mobile** | App mobile offline-first para gestão de tarefas e finanças com tratamento de conflitos. | `React Native`, `Expo`, `SQLite`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/offline-first-mobile-app) | [Acessar ↗]( ) |
+| **📡 Telemetry Stack** | Stack de observabilidade distribuída com métricas RED, tracing e alertas de performance. | `OpenTelemetry`, `Prometheus`, `Grafana`, `Jaeger` | [Acessar ↗](https://github.com/adrianojosez/observability-telemetry-stack) | [Acessar ↗]( ) |
+| **📸 Feed Approve** | Sistema para gestão, esteira de produção e aprovação visual de feeds do Instagram por clientes. | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/feed-approve) | [Acessar ↗]( ) |
 
 #### 🔍 Visão Geral & Desafios Técnicos Resolvidos:
 * 💼 **[Portal de Autoatendimento & CRUD Corporativo](https://github.com/adrianojosez/CRUD):** Ecossistema estruturado focado no fluxo operacional e regras de negócio escaláveis.
