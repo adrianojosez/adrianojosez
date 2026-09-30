@@ -273,13 +273,15 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 | Projeto | Descrição / Objetivo | Stack Principal | Código | Demonstração |
 | :--- | :--- | :--- | :---: | :---: |
-| **🛍️ Cyber Collect** | Plataforma de e-commerce desenvolvida para a marca Cyber-Collect. | `Node.js`, `Express`, `EJS` | [Acessar ↗](https://github.com/adrianojosez/cyber-collect-ecommerce) | [Acessar ↗]( ) |
+| **🛍️ Cyber Collect** | Plataforma de e-commerce desenvolvida para a marca Cyber-Collect. | `Node.js`, `Express`, `EJS` | [Acessar ↗](https://github.com/adrianojosez/cyber-collect-ecommerce) | [Acessar ↗](https://tcc-ct2b.onrender.com/) |
 | **📊 Analytics BI** | Dashboard em tempo real para monitoramento de métricas SaaS (MRR, Churn, LTV). | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Redis`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/analytics-bi-dashboard) | [Acessar ↗]( ) |
 | **📋 Kanban CRM** | CRM em tempo real com drag-and-drop e atualizações otimistas. | `React`, `Node.js`, `Socket.io`, `PostgreSQL`, `Zustand`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/realtime-kanban-crm) | [Acessar ↗]( ) |
 | **📅 Scheduling API** | API B2B de agendamento com controle de concorrência, RBAC, filas e Stripe. | `NestJS`, `Redis`, `Stripe`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/b2b-scheduling-api) | [Acessar ↗]( ) |
 | **📱 Offline Mobile** | App mobile offline-first para gestão de tarefas e finanças com tratamento de conflitos. | `React Native`, `Expo`, `SQLite`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/offline-first-mobile-app) | [Acessar ↗]( ) |
 | **📡 Telemetry Stack** | Stack de observabilidade distribuída com métricas RED, tracing e alertas de performance. | `OpenTelemetry`, `Prometheus`, `Grafana`, `Jaeger` | [Acessar ↗](https://github.com/adrianojosez/observability-telemetry-stack) | [Acessar ↗]( ) |
 | **📸 Feed Approve** | Sistema para gestão, esteira de produção e aprovação visual de feeds do Instagram por clientes. | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/feed-approve) | [Acessar ↗]( ) |
+| **⚡ OrçaFácil Pro** | SaaS para automação de orçamentos com IA, leitura de plantas, proposta pública com sinal via Pix e Stripe. | `React`, `Next.js`, `Tailwind`, `Stripe`, `Base44` | [Acessar ↗](https://github.com/adrianojosez) | [Acessar ↗](https://orcafacilpro.com.br) |
+| **🌿 AURA Eco Studio** | Plataforma de e-commerce D2C de moda sustentável e streetwear com catálogo dinâmico, filtros avançados, carrinho operacional e checkout simulado. | `React`, `TypeScript`, `Tailwind CSS`, `Shadcn UI` | [Acessar ↗](https://github.com/adrianojosez/aura-eco-studio) | [Acessar ↗](https://aura-eco-style.lovable.app/) |
 
 #### 🔍 Visão Geral & Desafios Técnicos Resolvidos:
 * 💼 **[Portal de Autoatendimento & CRUD Corporativo](https://github.com/adrianojosez/CRUD):** Ecossistema estruturado focado no fluxo operacional e regras de negócio escaláveis.
