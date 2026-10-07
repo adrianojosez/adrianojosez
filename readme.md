@@ -300,6 +300,16 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 
 ---
 
+## 🛠️ Code Snippets & Utilitários (Gists)
+
+> 💡 *Trechos de código reutilizáveis, custom hooks e rotas otimizadas focadas em performance e boas práticas para o ecossistema React, Next.js e TypeScript.*
+
+| Snippet / Hook | Descrição | Stack | Link |
+| :--- | :--- | :---: | :---: |
+| ⚡ **`useDebounce` & `useDebounceCallback`** | Custom hooks em TypeScript para otimização de inputs de busca, chamadas de API e rotas no Next.js/React. | `React` `TS` `Next.js` | [Ver Gist ↗](https://gist.github.com/adrianojosez/d230281cd92e22ebfdd8e3a47b4dd083) |
+
+---
+
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
