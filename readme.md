@@ -248,12 +248,21 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 <br clear="left"/>
 <br>
 
+[<img align="left" height="180px" width="125px" alt="Capa Nós, Programadores" src="https://i.ibb.co/nMn5CTXj/nos-programadores.jpg"/>](https://www.amazon.com.br/dp/8550827353)
+**👥 Nós, Programadores** • *Robert C. Martin (Uncle Bob)*  
+
+🛠️ *Foco Principal:* História e evolução do código, perfis dos pioneiros da computação, princípios éticos e o impacto da IA no futuro do desenvolvimento.  
+🎯 *Aplicação:* Compreensão das origens da engenharia de software para formar uma mentalidade profissional sólida, consciente e ética.
+<br clear="left"/>
+<br>
+
 | Livro | Status | Página | Tópicos-Chave |
 | :--- | :---: | :---: | :--- |
 | **⚡ JavaScript - Guia do Programador** | 📗 Lido | 602/602 | Manipulação do DOM, ES6+, Eventos, POO |
 | **📘 Entendendo Algoritmos** | 📖 Lendo | 10/264 | Grafos, Ordenação, Programação Dinâmica, `O(n)` |
 | **🧼 Código Limpo** | 📚 Próxima leitura | 0/423 | SOLID, Refatoração, Funções Coesas, Testes |
 | **🎨 Storytelling no Design de Produto** | 📚 Próxima leitura | 0/384 | UX/UI, Jornada do Usuário, Visão de Produto |
+| **👥 Nós, Programadores** | 📚 Próxima leitura | 0/480 | História da Computação, Pioneiros, Ética, Impacto da IA |
 
 ---
 
