@@ -283,6 +283,7 @@ Sou um **Engenheiro de Software Full Stack** focado em construir ecossistemas ro
 | Projeto | Descrição / Objetivo | Stack Principal | Código | Demonstração |
 | :--- | :--- | :--- | :---: | :---: |
 | **🛍️ Cyber Collect** | Plataforma de e-commerce desenvolvida para a marca Cyber-Collect. | `Node.js`, `Express`, `EJS` | [Acessar ↗](https://github.com/adrianojosez/cyber-collect-ecommerce) | [Acessar ↗](https://cyber-collect-ecommerce.onrender.com) |
+| **🚀 Portfólio Pessoal** | Ecossistema pessoal e landing page profissional focada em alta performance, SEO e exibição de projetos. | `React`, `HTML`, `CSS`, `Netlify` | [Acessar ↗](https://github.com/adrianojosez/portfolio) | [Acessar ↗](https://adrianojosedev.netlify.app/) |
 | **📊 Analytics BI** | Dashboard em tempo real para monitoramento de métricas SaaS (MRR, Churn, LTV). | `Next.js`, `TypeScript`, `PostgreSQL`, `Prisma`, `Redis`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/analytics-bi-dashboard) | [Acessar ↗]( ) |
 | **📋 Kanban CRM** | CRM em tempo real com drag-and-drop e atualizações otimistas. | `React`, `Node.js`, `Socket.io`, `PostgreSQL`, `Zustand`, `Tailwind` | [Acessar ↗](https://github.com/adrianojosez/realtime-kanban-crm) | [Acessar ↗]( ) |
 | **📅 Scheduling API** | API B2B de agendamento com controle de concorrência, RBAC, filas e Stripe. | `NestJS`, `Redis`, `Stripe`, `Node.js` | [Acessar ↗](https://github.com/adrianojosez/b2b-scheduling-api) | [Acessar ↗]( ) |
